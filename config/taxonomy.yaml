@@ -314,3 +314,52 @@ trend_keywords:
   - "Klipper"
   - "3D printing"
   - "additive manufacturing"
+
+# --- Subcategory keywords for auto-classification (classify_subcategory) ---
+subcategory_keywords:
+  - id: fdm-process
+    keywords: ["fused deposition", "FDM", "FFF", "fused filament", "extrusion"]
+  - id: sla-dlp
+    keywords: ["SLA", "DLP", "stereolithography", "vat photopolymerization", "resin printing", "digital light processing"]
+  - id: post-processing
+    keywords: ["annealing", "post-processing", "surface finishing", "post-curing"]
+  - id: polymer-materials
+    keywords: ["filament", "PLA", "ABS", "PETG", "polymer", "thermoplastic", "material properties"]
+  - id: composites
+    keywords: ["carbon fiber", "carbon-fibre", "composite", "filled", "reinforced"]
+  - id: resin-materials
+    keywords: ["resin", "photopolymer", "acrylate", "methacrylate"]
+  - id: infill
+    keywords: ["infill", "honeycomb", "gyroid", "infill pattern", "infill density"]
+  - id: supports
+    keywords: ["support structure", "tree support", "support generation", "supports"]
+  - id: toolpath
+    keywords: ["toolpath", "slicing", "slicer", "adaptive slicing", "seam", "path planning"]
+  - id: strength
+    keywords: ["layer adhesion", "tensile strength", "anisotropy", "interlayer", "mechanical strength", "bond strength"]
+  - id: tolerances
+    keywords: ["dimensional accuracy", "tolerance", "shrinkage", "repeatability", "precision"]
+  - id: defects
+    keywords: ["defect", "print failure", "warping", "stringing", "detection", "failure analysis"]
+  - id: calibration
+    keywords: ["calibration", "z-offset", "flow calibration", "bed leveling", "auto-level"]
+  - id: kinematics
+    keywords: ["kinematics", "corexy", "motion system", "resonance", "vibration"]
+  - id: firmware
+    keywords: ["Klipper", "Rinkhals", "Marlin", "firmware", "g-code", "motion controller"]
+  - id: fleet-management
+    keywords: ["print farm", "fleet", "multi-printer", "orchestration", "job scheduling"]
+  - id: quality-control
+    keywords: ["quality control", "inspection", "monitoring", "computer vision", "in-situ", "non-destructive"]
+  - id: topology-optimization
+    keywords: ["topology optimization", "shape optimization", "topology"]
+  - id: lattice-design
+    keywords: ["lattice", "cellular structure", "gyroid lattice", "triply periodic", "minimal surface"]
+  - id: dfam
+    keywords: ["design for additive", "design for manufacturing", "DFAM", "DFM"]
+  - id: medical-application
+    keywords: ["bioprinting", "surgical guide", "implant", "prosthetic", "dental", "orthopedic"]
+  - id: maker-application
+    keywords: ["maker", "desktop printer", "education", "open source hardware", "digital fabrication", "reprap"]
+  - id: survey
+    keywords: ["survey", "systematic review", "literature review", "overview"]
