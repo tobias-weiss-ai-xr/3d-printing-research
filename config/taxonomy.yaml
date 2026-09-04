@@ -1,365 +1,387 @@
-# 3D Printing Research Taxonomy & Discovery Config
-#
-# Focus: additive manufacturing research — FDM/FFF and resin processes,
-# materials, slicing/toolpath algorithms, part quality, printer firmware,
-# print farms, and generative design for fabrication
-#
-# Pipeline: config/taxonomy.yaml -> papers.yaml -> validate -> README -> reports
-# please edit below for your topic -------------------------------------------
-
-# --- Topic -----------------------------------------------------------
 topic:
-  name: "3D Printing Research"
-  short: "3dp"
-  description: "Additive manufacturing and 3D printing: FDM/FFF and resin processes, materials, slicer algorithms, part quality, printer firmware, and generative design."
-  openalex_mailto: "tobias@tobias-weiss.org"
-
-# --- Taxonomy ----------------------------------------------------------
-# Categories = the main axis of your review
-# Subcategories = the secondary axis
-# Each paper must carry one category + one subcategory.
+  name: 3D Printing Research
+  short: 3dp
+  description: 'Additive manufacturing and 3D printing: FDM/FFF and resin processes, materials, slicer algorithms,
+    part quality, printer firmware, and generative design.'
+  openalex_mailto: tobias@tobias-weiss.org
 taxonomy:
   categories:
-    - id: processes
-      display: "Processes"
-      description: "FDM/FFF, SLA/DLP resin, and process parameter studies"
-
-    - id: materials
-      display: "Materials & Filaments"
-      description: "Filament formulations, composites, and polymer science"
-
-    - id: slicing
-      display: "Slicing & Toolpath"
-      description: "Slicer algorithms, infill, supports, toolpath planning"
-
-    - id: part-quality
-      display: "Part Quality & Strength"
-      description: "Layer adhesion, strength, tolerances, and defect analysis"
-
-    - id: printers
-      display: "Printers & Firmware"
-      description: "Printer kinematics, calibration, Klipper/Rinkhals and open firmware"
-
-    - id: print-farm
-      display: "Print Farms & Automation"
-      description: "Fleet management, monitoring, quality control and automation"
-
-    - id: generative-design
-      display: "Generative Design"
-      description: "Topology optimization, lattice design and design-for-additive"
-
-    - id: applications
-      display: "Applications"
-      description: "Domain applications: medical, aerospace, education, maker culture"
-
-    - id: surveys
-      display: "Surveys"
-      description: "Systematic reviews of additive manufacturing research"
-
+  - id: processes
+    display: Processes
+    description: FDM/FFF, SLA/DLP resin, and process parameter studies
+  - id: materials
+    display: Materials & Filaments
+    description: Filament formulations, composites, and polymer science
+  - id: slicing
+    display: Slicing & Toolpath
+    description: Slicer algorithms, infill, supports, toolpath planning
+  - id: part-quality
+    display: Part Quality & Strength
+    description: Layer adhesion, strength, tolerances, and defect analysis
+  - id: printers
+    display: Printers & Firmware
+    description: Printer kinematics, calibration, Klipper/Rinkhals and open firmware
+  - id: print-farm
+    display: Print Farms & Automation
+    description: Fleet management, monitoring, quality control and automation
+  - id: generative-design
+    display: Generative Design
+    description: Topology optimization, lattice design and design-for-additive
+  - id: applications
+    display: Applications
+    description: 'Domain applications: medical, aerospace, education, maker culture'
+  - id: surveys
+    display: Surveys
+    description: Systematic reviews of additive manufacturing research
   subcategories:
-    # Processes
-    - id: fdm-process
-      category: processes
-      display: "FDM/FFF Process"
-      description: "Fused deposition modeling and filament extrusion parameters"
-
-    - id: sla-dlp
-      category: processes
-      display: "SLA & DLP"
-      description: "Resin vat photopolymerization processes and curing"
-
-    - id: post-processing
-      category: processes
-      display: "Post-Processing"
-      description: "Annealing, surface finishing and post-print treatments"
-
-    # Materials
-    - id: polymer-materials
-      category: materials
-      display: "Polymers & Filaments"
-      description: "PLA/ABS/PETG and specialty filament materials"
-
-    - id: composites
-      category: materials
-      display: "Composites & Filled"
-      description: "Carbon-fiber filled and reinforced materials"
-
-    - id: resin-materials
-      category: materials
-      display: "Resin Chemistries"
-      description: "Photopolymer resins and mechanical behavior"
-
-    # Slicing & Toolpath
-    - id: infill
-      category: slicing
-      display: "Infill Patterns"
-      description: "Infill geometry, density and mechanical effect"
-
-    - id: supports
-      category: slicing
-      display: "Support Structures"
-      description: "Support generation, removal and tree supports"
-
-    - id: toolpath
-      category: slicing
-      display: "Toolpath Optimization"
-      description: "Path planning, adaptive slicing and seam handling"
-
-    # Part Quality
-    - id: strength
-      category: part-quality
-      display: "Strength & Adhesion"
-      description: "Layer adhesion, tensile strength and anisotropy"
-
-    - id: tolerances
-      category: part-quality
-      display: "Tolerances & Accuracy"
-      description: "Dimensional accuracy, shrinkage and repeatability"
-
-    - id: defects
-      category: part-quality
-      display: "Defects & Detection"
-      description: "Print defects, failure modes and in-situ monitoring"
-
-    # Printers & Firmware
-    - id: calibration
-      category: printers
-      display: "Calibration"
-      description: "Z-offset, flow, input shaping and auto-calibration"
-
-    - id: kinematics
-      category: printers
-      display: "Kinematics & Motion"
-      description: "Motion systems, resonance and input shaping"
-
-    - id: firmware
-      category: printers
-      display: "Firmware & Control"
-      description: "Klipper, Rinkhals, Marlin and open control stacks"
-
-    # Print Farms
-    - id: fleet-management
-      category: print-farm
-      display: "Fleet Management"
-      description: "Farm orchestration, job scheduling and fleet monitoring"
-
-    - id: quality-control
-      category: print-farm
-      display: "Quality Control"
-      description: "Automated QC, vision inspection and traceability"
-
-    # Generative Design
-    - id: topology-optimization
-      category: generative-design
-      display: "Topology Optimization"
-      description: "Topology and shape optimization for fabrication"
-
-    - id: lattice-design
-      category: generative-design
-      display: "Lattice & Cellular"
-      description: "Lattice structures and cellular materials"
-
-    - id: dfam
-      category: generative-design
-      display: "Design for AM"
-      description: "Design-for-additive-manufacturing principles and tools"
-
-    # Applications
-    - id: medical-application
-      category: applications
-      display: "Medical & Dental"
-      description: "Biomedical printing, surgical guides and prosthetics"
-
-    - id: maker-application
-      category: applications
-      display: "Maker & Education"
-      description: "Desktop printing, maker culture and education"
-
-    # Surveys
-    - id: survey
-      category: surveys
-      display: "Surveys"
-      description: "Systematic reviews of additive manufacturing"
-
-# --- Discovery: arXiv queries (fetch_new_papers.py) -------------------------------
-# Each entry is an arXiv API query string (cat: + abs:/ti: operators).
-arxiv_queries:
-  - query: 'cat:cs.RO AND (abs:"3D printing" OR abs:"additive manufacturing" OR abs:"fused deposition")'
-    category: fdm-process
-
-  - query: 'cat:cs.LG AND (abs:"additive manufacturing" AND abs:"machine learning")'
-    category: defects
-
-  - query: 'cat:cs.GR AND (abs:"toolpath" OR abs:"slicing" OR abs:"3D printing")'
-    category: toolpath
-
-  - query: 'cat:cs.GR AND abs:"infill"'
-    category: infill
-
-  - query: 'cat:cs.RO AND abs:"3D printer"'
-    category: calibration
-
-  - query: 'cat:cs.CG AND (abs:"topology optimization" OR abs:"generative design")'
-    category: topology-optimization
-
-  - query: 'cat:cond-mat.mtrl-sci AND (abs:"additive manufacturing" OR abs:"FDM")'
-    category: polymer-materials
-
-  - query: 'cat:cs.RO AND (abs:"input shaping" OR abs:"resonance compensation")'
-    category: kinematics
-
-  - query: 'cat:cs.CY AND (abs:"distributed manufacturing" OR abs:"digital fabrication")'
-    category: maker-application
-
-  - query: 'cat:cs.LG AND (abs:"lattice structure" OR abs:"cellular material")'
-    category: lattice-design
-
-  - query: 'cat:cs.RO AND (abs:"print defect" OR abs:"layer adhesion" OR abs:"print quality")'
-    category: defects
-
-  - query: 'cat:cs.RO AND (abs:"print farm" OR abs:"multi-printer" OR abs:"fleet")'
-    category: fleet-management
-
-  - query: 'cat:cs.SY AND (abs:"3D printing" AND (abs:"monitor" OR abs:"sensor" OR abs:"vision"))'
-    category: quality-control
-
-  - query: 'cat:cs.RO AND (abs:"SLA" OR abs:"DLP" OR abs:"resin printing")'
-    category: sla-dlp
-
-  - query: 'cat:cs.LG AND (abs:"generative design" OR abs:"design for manufacturing")'
-    category: dfam
-
-  - query: 'cat:eess.IV AND (abs:"3D printing" AND (abs:"inspection" OR abs:"defect detection"))'
-    category: quality-control
-
-  - query: 'cat:cs.RO AND (abs:"carbon fiber" OR abs:"composite" AND abs:"3D printing")'
-    category: composites
-
-  - query: 'cat:cs.DB OR cat:cs.DC'
-    category: survey
-
-# --- Discovery: OpenAlex bulk queries (fetch_openalex_bulk.py) ---
-# Each entry defines one query phrase.
-openalex_queries:
-  - category: fdm-process
-    query: "fused deposition modeling"
-
-  - category: polymer-materials
-    query: "PLA ABS filament properties"
-
-  - category: defects
-    query: "additive manufacturing defect detection"
-
-  - category: infill
-    query: "infill pattern mechanical strength"
-
-  - category: toolpath
-    query: "toolpath optimization slicing"
-
-  - category: strength
-    query: "layer adhesion tensile strength FDM"
-
-  - category: sla-dlp
-    query: "resin 3D printing photopolymer"
-
-  - category: topology-optimization
-    query: "topology optimization additive manufacturing"
-
-  - category: lattice-design
-    query: "lattice structures additive manufacturing"
-
-  - category: calibration
-    query: "3D printer calibration"
-
-  - category: quality-control
-    query: "in situ monitoring 3D printing"
-
-  - category: composites
-    query: "carbon fiber 3D printing"
-
-  - category: fleet-management
-    query: "additive manufacturing automation"
-
-  - category: post-processing
-    query: "annealing FDM strength"
-
-# --- Multi-source queries (fetch_other_sources.py) ---
-other_sources_queries:
-  - source: crossref
-    query: "fused deposition modeling"
-    category: fdm-process
-  - source: crossref
-    query: "3D printing materials"
-    category: polymer-materials
-  - source: dblp
-    query: "additive manufacturing machine learning"
-    category: defects
-  - source: crossref
-    query: "topology optimization additive manufacturing"
-    category: topology-optimization
-
-# --- Trend keywords for standard_stats.py ---
-trend_keywords:
-  - "FDM"
-  - "FFF"
-  - "SLA"
-  - "DLP"
-  - "infill"
-  - "layer adhesion"
-  - "toolpath"
-  - "topology optimization"
-  - "lattice"
-  - "print farm"
-  - "calibration"
-  - "Klipper"
-  - "3D printing"
-  - "additive manufacturing"
-
-# --- Subcategory keywords for auto-classification (classify_subcategory) ---
-subcategory_keywords:
   - id: fdm-process
-    keywords: ["fused deposition", "FDM", "FFF", "fused filament", "extrusion"]
+    category: processes
+    display: FDM/FFF Process
+    description: Fused deposition modeling and filament extrusion parameters
   - id: sla-dlp
-    keywords: ["SLA", "DLP", "stereolithography", "vat photopolymerization", "resin printing", "digital light processing"]
+    category: processes
+    display: SLA & DLP
+    description: Resin vat photopolymerization processes and curing
   - id: post-processing
-    keywords: ["annealing", "post-processing", "surface finishing", "post-curing"]
+    category: processes
+    display: Post-Processing
+    description: Annealing, surface finishing and post-print treatments
   - id: polymer-materials
-    keywords: ["filament", "PLA", "ABS", "PETG", "polymer", "thermoplastic", "material properties"]
+    category: materials
+    display: Polymers & Filaments
+    description: PLA/ABS/PETG and specialty filament materials
   - id: composites
-    keywords: ["carbon fiber", "carbon-fibre", "composite", "filled", "reinforced"]
+    category: materials
+    display: Composites & Filled
+    description: Carbon-fiber filled and reinforced materials
   - id: resin-materials
-    keywords: ["resin", "photopolymer", "acrylate", "methacrylate"]
+    category: materials
+    display: Resin Chemistries
+    description: Photopolymer resins and mechanical behavior
   - id: infill
-    keywords: ["infill", "honeycomb", "gyroid", "infill pattern", "infill density"]
+    category: slicing
+    display: Infill Patterns
+    description: Infill geometry, density and mechanical effect
   - id: supports
-    keywords: ["support structure", "tree support", "support generation", "supports"]
+    category: slicing
+    display: Support Structures
+    description: Support generation, removal and tree supports
   - id: toolpath
-    keywords: ["toolpath", "slicing", "slicer", "adaptive slicing", "seam", "path planning"]
+    category: slicing
+    display: Toolpath Optimization
+    description: Path planning, adaptive slicing and seam handling
   - id: strength
-    keywords: ["layer adhesion", "tensile strength", "anisotropy", "interlayer", "mechanical strength", "bond strength"]
+    category: part-quality
+    display: Strength & Adhesion
+    description: Layer adhesion, tensile strength and anisotropy
   - id: tolerances
-    keywords: ["dimensional accuracy", "tolerance", "shrinkage", "repeatability", "precision"]
+    category: part-quality
+    display: Tolerances & Accuracy
+    description: Dimensional accuracy, shrinkage and repeatability
   - id: defects
-    keywords: ["defect", "print failure", "warping", "stringing", "detection", "failure analysis"]
+    category: part-quality
+    display: Defects & Detection
+    description: Print defects, failure modes and in-situ monitoring
   - id: calibration
-    keywords: ["calibration", "z-offset", "flow calibration", "bed leveling", "auto-level"]
+    category: printers
+    display: Calibration
+    description: Z-offset, flow, input shaping and auto-calibration
   - id: kinematics
-    keywords: ["kinematics", "corexy", "motion system", "resonance", "vibration"]
+    category: printers
+    display: Kinematics & Motion
+    description: Motion systems, resonance and input shaping
   - id: firmware
-    keywords: ["Klipper", "Rinkhals", "Marlin", "firmware", "g-code", "motion controller"]
+    category: printers
+    display: Firmware & Control
+    description: Klipper, Rinkhals, Marlin and open control stacks
   - id: fleet-management
-    keywords: ["print farm", "fleet", "multi-printer", "orchestration", "job scheduling"]
+    category: print-farm
+    display: Fleet Management
+    description: Farm orchestration, job scheduling and fleet monitoring
   - id: quality-control
-    keywords: ["quality control", "inspection", "monitoring", "computer vision", "in-situ", "non-destructive"]
+    category: print-farm
+    display: Quality Control
+    description: Automated QC, vision inspection and traceability
   - id: topology-optimization
-    keywords: ["topology optimization", "shape optimization", "topology"]
+    category: generative-design
+    display: Topology Optimization
+    description: Topology and shape optimization for fabrication
   - id: lattice-design
-    keywords: ["lattice", "cellular structure", "gyroid lattice", "triply periodic", "minimal surface"]
+    category: generative-design
+    display: Lattice & Cellular
+    description: Lattice structures and cellular materials
   - id: dfam
-    keywords: ["design for additive", "design for manufacturing", "DFAM", "DFM"]
+    category: generative-design
+    display: Design for AM
+    description: Design-for-additive-manufacturing principles and tools
   - id: medical-application
-    keywords: ["bioprinting", "surgical guide", "implant", "prosthetic", "dental", "orthopedic"]
+    category: applications
+    display: Medical & Dental
+    description: Biomedical printing, surgical guides and prosthetics
   - id: maker-application
-    keywords: ["maker", "desktop printer", "education", "open source hardware", "digital fabrication", "reprap"]
+    category: applications
+    display: Maker & Education
+    description: Desktop printing, maker culture and education
   - id: survey
-    keywords: ["survey", "systematic review", "literature review", "overview"]
+    category: surveys
+    display: Surveys
+    description: Systematic reviews of additive manufacturing
+arxiv_queries:
+- query: cat:cs.RO AND (abs:"3D printing" OR abs:"additive manufacturing" OR abs:"fused deposition")
+  category: processes
+- query: cat:cs.LG AND (abs:"additive manufacturing" AND abs:"machine learning")
+  category: part-quality
+- query: cat:cs.GR AND (abs:"toolpath" OR abs:"slicing" OR abs:"3D printing")
+  category: slicing
+- query: cat:cs.GR AND abs:"infill"
+  category: slicing
+- query: cat:cs.RO AND abs:"3D printer"
+  category: printers
+- query: cat:cs.CG AND (abs:"topology optimization" OR abs:"generative design")
+  category: generative-design
+- query: cat:cond-mat.mtrl-sci AND (abs:"additive manufacturing" OR abs:"FDM")
+  category: materials
+- query: cat:cs.RO AND (abs:"input shaping" OR abs:"resonance compensation")
+  category: printers
+- query: cat:cs.CY AND (abs:"distributed manufacturing" OR abs:"digital fabrication")
+  category: applications
+- query: cat:cs.LG AND (abs:"lattice structure" OR abs:"cellular material")
+  category: generative-design
+- query: cat:cs.RO AND (abs:"print defect" OR abs:"layer adhesion" OR abs:"print quality")
+  category: part-quality
+- query: cat:cs.RO AND (abs:"print farm" OR abs:"multi-printer" OR abs:"fleet")
+  category: print-farm
+- query: cat:cs.SY AND (abs:"3D printing" AND (abs:"monitor" OR abs:"sensor" OR abs:"vision"))
+  category: print-farm
+- query: cat:cs.RO AND (abs:"SLA" OR abs:"DLP" OR abs:"resin printing")
+  category: processes
+- query: cat:cs.LG AND (abs:"generative design" OR abs:"design for manufacturing")
+  category: generative-design
+- query: cat:eess.IV AND (abs:"3D printing" AND (abs:"inspection" OR abs:"defect detection"))
+  category: print-farm
+- query: cat:cs.RO AND (abs:"carbon fiber" OR abs:"composite" AND abs:"3D printing")
+  category: materials
+- query: cat:cs.DB OR cat:cs.DC
+  category: surveys
+openalex_queries:
+- category: processes
+  query: fused deposition modeling
+- category: materials
+  query: PLA ABS filament properties
+- category: part-quality
+  query: additive manufacturing defect detection
+- category: slicing
+  query: infill pattern mechanical strength
+- category: slicing
+  query: toolpath optimization slicing
+- category: part-quality
+  query: layer adhesion tensile strength FDM
+- category: processes
+  query: resin 3D printing photopolymer
+- category: generative-design
+  query: topology optimization additive manufacturing
+- category: generative-design
+  query: lattice structures additive manufacturing
+- category: printers
+  query: 3D printer calibration
+- category: print-farm
+  query: in situ monitoring 3D printing
+- category: materials
+  query: carbon fiber 3D printing
+- category: print-farm
+  query: additive manufacturing automation
+- category: processes
+  query: annealing FDM strength
+other_sources_queries:
+- source: crossref
+  query: fused deposition modeling
+  category: processes
+- source: crossref
+  query: 3D printing materials
+  category: materials
+- source: dblp
+  query: additive manufacturing machine learning
+  category: part-quality
+- source: crossref
+  query: topology optimization additive manufacturing
+  category: generative-design
+trend_keywords:
+- FDM
+- FFF
+- SLA
+- DLP
+- infill
+- layer adhesion
+- toolpath
+- topology optimization
+- lattice
+- print farm
+- calibration
+- Klipper
+- 3D printing
+- additive manufacturing
+subcategory_keywords:
+- id: fdm-process
+  keywords:
+  - fused deposition
+  - FDM
+  - FFF
+  - fused filament
+  - extrusion
+- id: sla-dlp
+  keywords:
+  - SLA
+  - DLP
+  - stereolithography
+  - vat photopolymerization
+  - resin printing
+  - digital light processing
+- id: post-processing
+  keywords:
+  - annealing
+  - post-processing
+  - surface finishing
+  - post-curing
+- id: polymer-materials
+  keywords:
+  - filament
+  - PLA
+  - ABS
+  - PETG
+  - polymer
+  - thermoplastic
+  - material properties
+- id: composites
+  keywords:
+  - carbon fiber
+  - carbon-fibre
+  - composite
+  - filled
+  - reinforced
+- id: resin-materials
+  keywords:
+  - resin
+  - photopolymer
+  - acrylate
+  - methacrylate
+- id: infill
+  keywords:
+  - infill
+  - honeycomb
+  - gyroid
+  - infill pattern
+  - infill density
+- id: supports
+  keywords:
+  - support structure
+  - tree support
+  - support generation
+  - supports
+- id: toolpath
+  keywords:
+  - toolpath
+  - slicing
+  - slicer
+  - adaptive slicing
+  - seam
+  - path planning
+- id: strength
+  keywords:
+  - layer adhesion
+  - tensile strength
+  - anisotropy
+  - interlayer
+  - mechanical strength
+  - bond strength
+- id: tolerances
+  keywords:
+  - dimensional accuracy
+  - tolerance
+  - shrinkage
+  - repeatability
+  - precision
+- id: defects
+  keywords:
+  - defect
+  - print failure
+  - warping
+  - stringing
+  - detection
+  - failure analysis
+- id: calibration
+  keywords:
+  - calibration
+  - z-offset
+  - flow calibration
+  - bed leveling
+  - auto-level
+- id: kinematics
+  keywords:
+  - kinematics
+  - corexy
+  - motion system
+  - resonance
+  - vibration
+- id: firmware
+  keywords:
+  - Klipper
+  - Rinkhals
+  - Marlin
+  - firmware
+  - g-code
+  - motion controller
+- id: fleet-management
+  keywords:
+  - print farm
+  - fleet
+  - multi-printer
+  - orchestration
+  - job scheduling
+- id: quality-control
+  keywords:
+  - quality control
+  - inspection
+  - monitoring
+  - computer vision
+  - in-situ
+  - non-destructive
+- id: topology-optimization
+  keywords:
+  - topology optimization
+  - shape optimization
+  - topology
+- id: lattice-design
+  keywords:
+  - lattice
+  - cellular structure
+  - gyroid lattice
+  - triply periodic
+  - minimal surface
+- id: dfam
+  keywords:
+  - design for additive
+  - design for manufacturing
+  - DFAM
+  - DFM
+- id: medical-application
+  keywords:
+  - bioprinting
+  - surgical guide
+  - implant
+  - prosthetic
+  - dental
+  - orthopedic
+- id: maker-application
+  keywords:
+  - maker
+  - desktop printer
+  - education
+  - open source hardware
+  - digital fabrication
+  - reprap
+- id: survey
+  keywords:
+  - survey
+  - systematic review
+  - literature review
+  - overview
