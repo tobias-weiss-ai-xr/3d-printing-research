@@ -6,19 +6,19 @@ Bootstrap in progress.
 
 ## 📊 Corpus Statistics
 
-**5752 papers** across **8 categories**.  
-Sources: **arXiv** 333 (6%).  
+**5824 papers** across **8 categories**.  
+Sources: **arXiv** 335 (6%).  
 
 ### Top categories
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-| generative-design | **1295** | 453 | ████████████ |
-| processes | **1270** | 529 | ████████████ |
-| print-farm | **912** | 424 | ████████░░░░ |
-| materials | **749** | 224 | ███████░░░░░ |
-| part-quality | **687** | 256 | ██████░░░░░░ |
-| slicing | **591** | 269 | █████░░░░░░░ |
+| generative-design | **1315** | 473 | ████████████ |
+| processes | **1296** | 555 | ████████████ |
+| print-farm | **918** | 430 | ████████░░░░ |
+| materials | **756** | 231 | ███████░░░░░ |
+| part-quality | **697** | 266 | ██████░░░░░░ |
+| slicing | **594** | 272 | █████░░░░░░░ |
 | printers | **148** | 69 | █░░░░░░░░░░░ |
 | surveys | **100** | 100 | █░░░░░░░░░░░ |
 
@@ -29,47 +29,47 @@ Sources: **arXiv** 333 (6%).
 | 2023 | 445 | ███░░░░░░░░░ |
 | 2024 | 1718 | ███████████░ |
 | 2025 | 1842 | ████████████ |
-| 2026 | 1747 | ███████████░ |
+| 2026 | 1819 | ████████████ |
 
 ### Momentum (hottest categories)
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
 | Printers | 148 | 5.8/mo | 47% | 162 |
-| Print Farm | 912 | 35.3/mo | 46% | 104 |
+| Print Farm | 918 | 35.8/mo | 47% | 107 |
 | Surveys | 100 | 8.3/mo | 100% | 100 |
-| Processes | 1270 | 44.1/mo | 42% | 85 |
-| Slicing | 591 | 22.4/mo | 46% | 77 |
-| Generative Design | 1295 | 37.8/mo | 35% | 41 |
-| Part Quality | 687 | 21.3/mo | 37% | 38 |
-| Materials | 749 | 18.7/mo | 30% | 14 |
+| Processes | 1296 | 46.2/mo | 43% | 93 |
+| Slicing | 594 | 22.7/mo | 46% | 79 |
+| Generative Design | 1315 | 39.4/mo | 36% | 46 |
+| Part Quality | 697 | 22.2/mo | 38% | 43 |
+| Materials | 756 | 19.2/mo | 31% | 18 |
 
 ### Trending keywords
 
 | Keyword | Papers | Burst |
 |---------|--------|-------|
-| layer adhesion | 55 | 1.39 |
-| calibration | 87 | 1.18 |
-| toolpath | 39 | 1.18 |
-| infill | 299 | 1.03 |
-| lattice | 299 | 0.92 |
-| additive manufacturing | 982 | 0.91 |
-| topology optimization | 176 | 0.87 |
+| layer adhesion | 56 | 1.37 |
+| calibration | 88 | 1.17 |
+| toolpath | 39 | 1.16 |
+| infill | 304 | 1.02 |
+| additive manufacturing | 1021 | 0.92 |
+| lattice | 310 | 0.92 |
+| topology optimization | 180 | 0.87 |
 
 ### Top venues
 
 | Venue | Papers |
 |-------|--------|
-| The International Journal of Advanced Manufacturing Technology | 148 |
-| Polymers | 121 |
-| Progress in Additive Manufacturing | 104 |
-| Materials | 91 |
-| Polymer Composites | 85 |
-| Zenodo (CERN European Organization for Nuclear Research) | 84 |
+| The International Journal of Advanced Manufacturing Technology | 152 |
+| Polymers | 123 |
+| Progress in Additive Manufacturing | 105 |
+| Materials | 92 |
+| Polymer Composites | 87 |
+| Zenodo (CERN European Organization for Nuclear Research) | 85 |
 | Journal of Materials Engineering and Performance | 82 |
 | Journal of Manufacturing Processes | 73 |
-| Additive manufacturing | 61 |
-| Rapid Prototyping Journal | 58 |
+| Additive manufacturing | 64 |
+| Rapid Prototyping Journal | 59 |
 
 ### Research gaps (thinnest cells)
 
