@@ -3,155 +3,155 @@
   {
    "id": "generative-design",
    "name": "Generative Design",
-   "count": 1315,
+   "count": 1389,
    "trajectory": {
     "2023": 121,
     "2024": 439,
     "2025": 381,
-    "2026": 374
+    "2026": 448
    },
    "momentum": {
     "id": "generative-design",
     "name": "Generative Design",
-    "total": 1315,
-    "recent": 473,
-    "prior": 428,
-    "growth_pct": 10.5,
-    "recent_share": 0.36,
-    "papers_per_month": 39.4,
-    "score": 46.5
+    "total": 1389,
+    "recent": 515,
+    "prior": 427,
+    "growth_pct": 20.6,
+    "recent_share": 0.371,
+    "papers_per_month": 42.9,
+    "score": 57.7
    }
   },
   {
    "id": "materials",
    "name": "Materials & Filaments",
-   "count": 756,
+   "count": 773,
    "trajectory": {
     "2023": 70,
     "2024": 270,
     "2025": 265,
-    "2026": 151
+    "2026": 168
    },
    "momentum": {
     "id": "materials",
     "name": "Materials",
-    "total": 756,
+    "total": 773,
     "recent": 231,
-    "prior": 265,
-    "growth_pct": -12.8,
-    "recent_share": 0.306,
+    "prior": 262,
+    "growth_pct": -11.8,
+    "recent_share": 0.299,
     "papers_per_month": 19.2,
-    "score": 17.8
+    "score": 18.1
    }
   },
   {
    "id": "part-quality",
    "name": "Part Quality & Strength",
-   "count": 697,
+   "count": 717,
    "trajectory": {
     "2023": 55,
     "2024": 198,
     "2025": 261,
-    "2026": 183
+    "2026": 203
    },
    "momentum": {
     "id": "part-quality",
     "name": "Part Quality",
-    "total": 697,
-    "recent": 266,
-    "prior": 253,
-    "growth_pct": 5.1,
-    "recent_share": 0.382,
-    "papers_per_month": 22.2,
-    "score": 43.3
+    "total": 717,
+    "recent": 264,
+    "prior": 252,
+    "growth_pct": 4.8,
+    "recent_share": 0.368,
+    "papers_per_month": 22.0,
+    "score": 41.6
    }
   },
   {
    "id": "print-farm",
    "name": "Print Farms & Automation",
-   "count": 918,
+   "count": 936,
    "trajectory": {
     "2023": 50,
     "2024": 244,
     "2025": 299,
-    "2026": 325
+    "2026": 343
    },
    "momentum": {
     "id": "print-farm",
     "name": "Print Farm",
-    "total": 918,
+    "total": 936,
     "recent": 430,
-    "prior": 269,
-    "growth_pct": 59.9,
-    "recent_share": 0.468,
+    "prior": 271,
+    "growth_pct": 58.7,
+    "recent_share": 0.459,
     "papers_per_month": 35.8,
-    "score": 106.7
+    "score": 104.6
    }
   },
   {
    "id": "printers",
    "name": "Printers & Firmware",
-   "count": 148,
+   "count": 152,
    "trajectory": {
     "2023": 17,
     "2024": 41,
     "2025": 35,
-    "2026": 55
+    "2026": 59
    },
    "momentum": {
     "id": "printers",
     "name": "Printers",
-    "total": 148,
-    "recent": 69,
+    "total": 152,
+    "recent": 71,
     "prior": 32,
-    "growth_pct": 115.6,
-    "recent_share": 0.466,
-    "papers_per_month": 5.8,
-    "score": 162.2
+    "growth_pct": 121.9,
+    "recent_share": 0.467,
+    "papers_per_month": 5.9,
+    "score": 168.6
    }
   },
   {
    "id": "processes",
    "name": "Processes",
-   "count": 1296,
+   "count": 1361,
    "trajectory": {
     "2023": 101,
     "2024": 396,
     "2025": 352,
-    "2026": 447
+    "2026": 512
    },
    "momentum": {
     "id": "processes",
     "name": "Processes",
-    "total": 1296,
-    "recent": 555,
-    "prior": 369,
-    "growth_pct": 50.4,
-    "recent_share": 0.428,
-    "papers_per_month": 46.2,
-    "score": 93.2
+    "total": 1361,
+    "recent": 598,
+    "prior": 371,
+    "growth_pct": 61.2,
+    "recent_share": 0.439,
+    "papers_per_month": 49.8,
+    "score": 105.1
    }
   },
   {
    "id": "slicing",
    "name": "Slicing & Toolpath",
-   "count": 594,
+   "count": 601,
    "trajectory": {
     "2023": 31,
     "2024": 130,
     "2025": 249,
-    "2026": 184
+    "2026": 191
    },
    "momentum": {
     "id": "slicing",
     "name": "Slicing",
-    "total": 594,
-    "recent": 272,
-    "prior": 204,
-    "growth_pct": 33.3,
-    "recent_share": 0.458,
-    "papers_per_month": 22.7,
-    "score": 79.1
+    "total": 601,
+    "recent": 263,
+    "prior": 207,
+    "growth_pct": 27.1,
+    "recent_share": 0.438,
+    "papers_per_month": 21.9,
+    "score": 70.9
    }
   },
   {
@@ -178,17 +178,17 @@
   {
    "id": "calibration",
    "name": "Calibration",
-   "count": 14
+   "count": 15
   },
   {
    "id": "composites",
    "name": "Composites & Filled",
-   "count": 227
+   "count": 229
   },
   {
    "id": "defects",
    "name": "Defects & Detection",
-   "count": 271
+   "count": 281
   },
   {
    "id": "dfam",
@@ -198,12 +198,12 @@
   {
    "id": "fdm-process",
    "name": "FDM/FFF Process",
-   "count": 2478
+   "count": 2562
   },
   {
    "id": "firmware",
    "name": "Firmware & Control",
-   "count": 5
+   "count": 6
   },
   {
    "id": "fleet-management",
@@ -213,22 +213,22 @@
   {
    "id": "infill",
    "name": "Infill Patterns",
-   "count": 60
+   "count": 63
   },
   {
    "id": "kinematics",
    "name": "Kinematics & Motion",
-   "count": 11
+   "count": 12
   },
   {
    "id": "lattice-design",
    "name": "Lattice & Cellular",
-   "count": 147
+   "count": 152
   },
   {
    "id": "maker-application",
    "name": "Maker & Education",
-   "count": 12
+   "count": 13
   },
   {
    "id": "medical-application",
@@ -238,17 +238,17 @@
   {
    "id": "polymer-materials",
    "name": "Polymers & Filaments",
-   "count": 1647
+   "count": 1705
   },
   {
    "id": "post-processing",
    "name": "Post-Processing",
-   "count": 121
+   "count": 126
   },
   {
    "id": "quality-control",
    "name": "Quality Control",
-   "count": 70
+   "count": 71
   },
   {
    "id": "resin-materials",
@@ -258,37 +258,37 @@
   {
    "id": "sla-dlp",
    "name": "SLA & DLP",
-   "count": 346
+   "count": 365
   },
   {
    "id": "strength",
    "name": "Strength & Adhesion",
-   "count": 30
+   "count": 31
   },
   {
    "id": "supports",
    "name": "Support Structures",
-   "count": 29
+   "count": 30
   },
   {
    "id": "survey",
    "name": "Surveys",
-   "count": 15
+   "count": 16
   },
   {
    "id": "tolerances",
    "name": "Tolerances & Accuracy",
-   "count": 83
+   "count": 86
   },
   {
    "id": "toolpath",
    "name": "Toolpath Optimization",
-   "count": 24
+   "count": 25
   },
   {
    "id": "topology-optimization",
    "name": "Topology Optimization",
-   "count": 187
+   "count": 194
   }
  ],
  "timeline": [
@@ -27065,6 +27065,11 @@
   [
    "2026-08",
    "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-08",
+   "generative-design",
    "post-processing"
   ],
   [
@@ -27140,6 +27145,11 @@
   [
    "2026-08",
    "generative-design",
+   "strength"
+  ],
+  [
+   "2026-08",
+   "generative-design",
    "tolerances"
   ],
   [
@@ -27251,6 +27261,11 @@
    "2026-08",
    "materials",
    "composites"
+  ],
+  [
+   "2026-08",
+   "materials",
+   "fdm-process"
   ],
   [
    "2026-08",
@@ -27490,6 +27505,11 @@
   [
    "2026-08",
    "part-quality",
+   "polymer-materials"
+  ],
+  [
+   "2026-08",
+   "part-quality",
    "quality-control"
   ],
   [
@@ -27586,6 +27606,26 @@
    "2026-08",
    "print-farm",
    "fleet-management"
+  ],
+  [
+   "2026-08",
+   "print-farm",
+   "maker-application"
+  ],
+  [
+   "2026-08",
+   "print-farm",
+   "polymer-materials"
+  ],
+  [
+   "2026-08",
+   "print-farm",
+   "polymer-materials"
+  ],
+  [
+   "2026-08",
+   "print-farm",
+   "polymer-materials"
   ],
   [
    "2026-08",
@@ -27706,6 +27746,11 @@
    "2026-08",
    "print-farm",
    "strength"
+  ],
+  [
+   "2026-08",
+   "print-farm",
+   "survey"
   ],
   [
    "2026-08",
@@ -28225,6 +28270,31 @@
   [
    "2026-08",
    "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-08",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-08",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-08",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-08",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-08",
+   "processes",
    "polymer-materials"
   ],
   [
@@ -28281,6 +28351,11 @@
    "2026-08",
    "processes",
    "sla-dlp"
+  ],
+  [
+   "2026-08",
+   "slicing",
+   "fdm-process"
   ],
   [
    "2026-08",
@@ -28430,6 +28505,46 @@
   [
    "2026-09",
    "generative-design",
+   "defects"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "generative-design",
    "fdm-process"
   ],
   [
@@ -28496,6 +28611,21 @@
    "2026-09",
    "generative-design",
    "infill"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "infill"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "infill"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "kinematics"
   ],
   [
    "2026-09",
@@ -28530,6 +28660,156 @@
   [
    "2026-09",
    "generative-design",
+   "lattice-design"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "lattice-design"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "lattice-design"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "lattice-design"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "lattice-design"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "generative-design",
    "polymer-materials"
   ],
   [
@@ -28695,6 +28975,36 @@
   [
    "2026-09",
    "generative-design",
+   "post-processing"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "post-processing"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "post-processing"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
    "sla-dlp"
   ],
   [
@@ -28716,6 +29026,41 @@
    "2026-09",
    "generative-design",
    "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "supports"
   ],
   [
    "2026-09",
@@ -28739,8 +29084,38 @@
   ],
   [
    "2026-09",
-   "materials",
-   "composites"
+   "generative-design",
+   "topology-optimization"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "topology-optimization"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "topology-optimization"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "topology-optimization"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "topology-optimization"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "topology-optimization"
+  ],
+  [
+   "2026-09",
+   "generative-design",
+   "topology-optimization"
   ],
   [
    "2026-09",
@@ -28760,6 +29135,41 @@
   [
    "2026-09",
    "materials",
+   "composites"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "composites"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "materials",
    "fdm-process"
   ],
   [
@@ -28826,6 +29236,51 @@
    "2026-09",
    "materials",
    "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "materials",
+   "sla-dlp"
   ],
   [
    "2026-09",
@@ -28870,7 +29325,42 @@
   [
    "2026-09",
    "part-quality",
-   "fdm-process"
+   "defects"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "defects"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "defects"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "defects"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "defects"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "defects"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "defects"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "defects"
   ],
   [
    "2026-09",
@@ -28910,7 +29400,22 @@
   [
    "2026-09",
    "part-quality",
-   "polymer-materials"
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "fdm-process"
   ],
   [
    "2026-09",
@@ -28951,6 +29456,36 @@
    "2026-09",
    "part-quality",
    "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "part-quality",
+   "tolerances"
   ],
   [
    "2026-09",
@@ -28976,6 +29511,26 @@
    "2026-09",
    "print-farm",
    "fdm-process"
+  ],
+  [
+   "2026-09",
+   "print-farm",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "print-farm",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "print-farm",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "print-farm",
+   "firmware"
   ],
   [
    "2026-09",
@@ -29030,6 +29585,26 @@
   [
    "2026-09",
    "print-farm",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "print-farm",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "print-farm",
+   "post-processing"
+  ],
+  [
+   "2026-09",
+   "print-farm",
+   "quality-control"
+  ],
+  [
+   "2026-09",
+   "print-farm",
    "quality-control"
   ],
   [
@@ -29049,8 +29624,33 @@
   ],
   [
    "2026-09",
+   "print-farm",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "printers",
+   "calibration"
+  ],
+  [
+   "2026-09",
    "printers",
    "fdm-process"
+  ],
+  [
+   "2026-09",
+   "printers",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "printers",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "printers",
+   "polymer-materials"
   ],
   [
    "2026-09",
@@ -29320,6 +29920,256 @@
   [
    "2026-09",
    "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "processes",
    "polymer-materials"
   ],
   [
@@ -29351,6 +30201,11 @@
    "2026-09",
    "processes",
    "polymer-materials"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "post-processing"
   ],
   [
    "2026-09",
@@ -29376,6 +30231,16 @@
    "2026-09",
    "processes",
    "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "processes",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "slicing",
+   "fdm-process"
   ],
   [
    "2026-09",
@@ -29404,6 +30269,16 @@
   ],
   [
    "2026-09",
+   "slicing",
+   "sla-dlp"
+  ],
+  [
+   "2026-09",
+   "slicing",
+   "toolpath"
+  ],
+  [
+   "2026-09",
    "surveys",
    "fdm-process"
   ],
@@ -29411,6 +30286,156 @@
    "2026-09",
    "surveys",
    "fdm-process"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "composites"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "sla-dlp"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "tolerances"
+  ],
+  [
+   "2026-10",
+   "generative-design",
+   "tolerances"
+  ],
+  [
+   "2026-10",
+   "materials",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "part-quality",
+   "defects"
+  ],
+  [
+   "2026-10",
+   "part-quality",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "part-quality",
+   "sla-dlp"
+  ],
+  [
+   "2026-10",
+   "print-farm",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "print-farm",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "print-farm",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "print-farm",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "processes",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "processes",
+   "polymer-materials"
+  ],
+  [
+   "2026-10",
+   "processes",
+   "sla-dlp"
+  ],
+  [
+   "2026-10",
+   "processes",
+   "sla-dlp"
+  ],
+  [
+   "2026-10",
+   "slicing",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "slicing",
+   "fdm-process"
+  ],
+  [
+   "2026-10",
+   "slicing",
+   "infill"
   ]
  ],
  "venues": [
@@ -29420,31 +30445,31 @@
   },
   {
    "name": "Polymers",
-   "papers": 123
+   "papers": 127
   },
   {
    "name": "Progress in Additive Manufacturing",
-   "papers": 105
-  },
-  {
-   "name": "Materials",
-   "papers": 92
-  },
-  {
-   "name": "Polymer Composites",
-   "papers": 87
+   "papers": 110
   },
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 85
+   "papers": 107
+  },
+  {
+   "name": "Materials",
+   "papers": 94
+  },
+  {
+   "name": "Polymer Composites",
+   "papers": 90
   },
   {
    "name": "Journal of Materials Engineering and Performance",
-   "papers": 82
+   "papers": 83
   },
   {
    "name": "Journal of Manufacturing Processes",
-   "papers": 73
+   "papers": 76
   },
   {
    "name": "Additive manufacturing",
@@ -29452,78 +30477,78 @@
   },
   {
    "name": "Rapid Prototyping Journal",
-   "papers": 59
+   "papers": 62
+  },
+  {
+   "name": "Applied Sciences",
+   "papers": 60
   },
   {
    "name": "Lecture notes in mechanical engineering",
    "papers": 58
   },
   {
-   "name": "Applied Sciences",
-   "papers": 58
+   "name": "Materials & Design",
+   "papers": 52
   },
   {
-   "name": "Materials & Design",
-   "papers": 51
+   "name": "Journal of Materials Research and Technology",
+   "papers": 49
   },
   {
    "name": "SSRN Electronic Journal",
    "papers": 48
-  },
-  {
-   "name": "Journal of Materials Research and Technology",
-   "papers": 44
   }
  ],
  "keyword_bursts": [
   {
    "keyword": "layer adhesion",
-   "recent": 56,
-   "total": 99,
-   "burst_score": 1.37,
-   "recent_share": 0.0234
+   "recent": 55,
+   "total": 101,
+   "burst_score": 1.33,
+   "recent_share": 0.0222
   },
   {
    "keyword": "calibration",
-   "recent": 88,
-   "total": 183,
-   "burst_score": 1.17,
-   "recent_share": 0.0367
+   "recent": 95,
+   "total": 193,
+   "burst_score": 1.2,
+   "recent_share": 0.0384
   },
   {
    "keyword": "toolpath",
-   "recent": 39,
-   "total": 82,
-   "burst_score": 1.16,
-   "recent_share": 0.0163
+   "recent": 40,
+   "total": 87,
+   "burst_score": 1.12,
+   "recent_share": 0.0162
   },
   {
    "keyword": "infill",
-   "recent": 304,
-   "total": 725,
-   "burst_score": 1.02,
-   "recent_share": 0.1269
-  },
-  {
-   "keyword": "additive manufacturing",
-   "recent": 1021,
-   "total": 2703,
-   "burst_score": 0.92,
-   "recent_share": 0.4261
+   "recent": 300,
+   "total": 739,
+   "burst_score": 0.99,
+   "recent_share": 0.1214
   },
   {
    "keyword": "lattice",
-   "recent": 310,
-   "total": 819,
-   "burst_score": 0.92,
-   "recent_share": 0.1294
+   "recent": 333,
+   "total": 866,
+   "burst_score": 0.94,
+   "recent_share": 0.1347
+  },
+  {
+   "keyword": "additive manufacturing",
+   "recent": 1047,
+   "total": 2808,
+   "burst_score": 0.91,
+   "recent_share": 0.4235
   },
   {
    "keyword": "topology optimization",
-   "recent": 180,
-   "total": 503,
-   "burst_score": 0.87,
-   "recent_share": 0.0751
+   "recent": 193,
+   "total": 527,
+   "burst_score": 0.89,
+   "recent_share": 0.0781
   }
  ]
 }
