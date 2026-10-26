@@ -131295,3 +131295,1750 @@ papers:
     the prediction horizongrows, verifying the effectiveness of the "recurrent backbone + attention fusion + physical constraint"
     frameworkforrobot multi-modal collaborative perception.
   venue: ''
+- title: Framework for design for circularity in fused deposition modeling
+  date: 2026-10
+  url: https://doi.org/10.1016/b978-0-443-26716-1.00012-2
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Nanang Fatchurrohman
+  - Mutiara Yetrina
+  - Mohammad Farid
+  abstract: ''
+  venue: Elsevier eBooks
+- title: Split-Bed Platform for Support Reduction in Fused Deposition Modeling
+  date: 2026-10
+  url: https://doi.org/10.1007/s40684-026-00938-x
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Seungjae Lee
+  - Adrian Matias Chung Baek
+  - Im Doo Jung
+  abstract: ''
+  venue: International Journal of Precision Engineering and Manufacturing-Green Technology
+- title: Characterization of Polycaprolactone with Different Molecular Weights via Melt Processing and Fused Deposition Modeling
+    3D Printing
+  date: 2026-10
+  url: https://doi.org/10.1007/s11665-026-15372-y
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Jiawen Kong
+  - Qi Jia
+  - Shuang Zhou
+  abstract: ''
+  venue: Journal of Materials Engineering and Performance
+- title: A Comprehensive Review on the Utilization of Recycled Polylactic Acid in Fused Deposition Modelling 3D Printing for
+    Sustainable Manufacturing
+  date: 2026-10
+  url: https://doi.org/10.1002/appl.70237
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Muhammad Firdaus Mohd Azhari
+  - Nik Mizamzul Mehat
+  - Shahrul Kamaruddin
+  abstract: ABSTRACT Fused deposition modelling (FDM) has emerged as one of the most widely adopted additive manufacturing
+    technologies because of its ability to fabricate complex geometries and produce rapid prototypes efficiently. However,
+    the increasing reliance on virgin polymer materials has raised concerns regarding excessive raw material consumption and
+    the accumulation of plastic waste. In response to these environmental challenges, recycled polylactic acid (PLA) has gained
+    significant attention as a sustainable material for FDM 3D printing. This review focuses exclusively on recycled PLA and
+    provides a comprehensive overview of recent developments in recycled PLA filaments. It examines the effects of recycling
+    on the mechanical, thermal and rheological properties of PLA, which directly influence filament printability and the performance
+    of printed components. In addition, the review discusses common printing challenges associated with recycled PLA, including
+    poor surface finish, warpage and weak interlayer adhesion. Key issues limiting the widespread adoption of recycled PLA,
+    such as material degradation after multiple recycling cycles, contamination during recycling and the optimization of printing
+    parameters, are also critically evaluated. Furthermore, potential strategies for improving the performance of recycled
+    PLA, based on findings from previous studies, are presented. Finally, the review identifies existing research gaps and
+    highlights future opportunities for advancing recycled PLA as a sustainable material for FDM, thereby contributing to
+    more environmentally responsible additive manufacturing practices.
+  venue: Applied Research
+- title: Fabrication of Fe-based amorphous alloy green sample using innovative wax-based material extrusion fused deposition
+    modelling
+  date: 2026-10
+  url: https://doi.org/10.1108/rpj-02-2026-0123
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Azib Juri
+  - Sufian Raja
+  - Farazila Binti Yusof
+  abstract: Purpose This study aims to investigate a non-fusion, material extrusion additive manufacturing (AM) route for
+    the fabrication of Fe-based metallic glass green parts, aiming to reduce the thermal risks associated with fusion-based
+    AM. This was achieved using a novel ternary wax-based binder system designed for the low-pressure extrusion of amorphous
+    powders. Design/methodology/approach A screw-driven fused deposition modelling (FDM) system was used to process a 90:10
+    Wt.% powder-binder feedstock. The wax-based binder consisted of 50% paraffin, 25% coconut and 25% soy wax. Rheological
+    characterisation was performed to assess the flow behaviour. A Taguchi L9 orthogonal array was used to evaluate the influence
+    of the material extrusion rate (MER), print speed and layer height on the printed part density, porosity and surface roughness
+    (Ra). Findings The results of this study demonstrate stable and continuous extrusion of the feedstock. Within the current
+    Taguchi analysis, MER showed the strongest effect on the measured density and porosity responses. A lower MER (0.12 g/min)
+    minimised viscoelastic flow instability and air entrapment in the study. Conversely, layer height was the predominant
+    factor for surface topography, contributing 57% to the variance in Ra, with an optimal parameter threshold of 0.50 mm.
+    Originality/value This study proposes a preliminary pathway for producing Fe-based metallic glass green parts using a
+    ternary wax-based material extrusion route. Further debinding, sintering and mechanical validation are required before
+    final component-level manufacturing can be claimed.
+  venue: Rapid Prototyping Journal
+- title: Mechanical property optimization of sisal fiber-reinforced PLA composites fabricated by fused deposition modelling
+    using response surface methodology
+  date: 2026-10
+  url: https://doi.org/10.1177/14644207261498638
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Sagar Yanda
+  - Jagadish Jagadish
+  - Venkata Swamy Naidu Neigapula
+  abstract: Fused deposition modelling (FDM) is a widely adopted additive manufacturing technique to fabricate three-dimensional
+    components from thermoplastic feedstock. The investigation is carried out for the effect of layer thickness, nozzle temperature,
+    infill density, and sisal fibre weight fraction on the tensile and flexural properties of sisal fibre-reinforced polylactic
+    acid (PLA) composites fabricated through FDM. A Box-Behnken Design (BBD) within the Response Surface Methodology (RSM)
+    framework was employed to investigate and optimize these four experimental factors. The parameter ranges considered were
+    0.1–0.3 mm for layer thickness, 190–210°C for nozzle temperature, 60–100% for infill density, and 3–9 wt% for sisal fibre
+    content. ANOVA indicated that fibre weight fraction was the most influential factor for tensile strength, while infill
+    density was the dominant factor affecting flexural strength. The regression models established R 2 values of 98.81% and
+    92.04% for tensile and flexural strength, respectively. Among the experimental design points, 6 wt% sisal fibre produced
+    the highest tensile strength of 46.50 MPa and flexural strength of 78.38 MPa. The RSM-based multi-response optimization
+    identified an optimum combination of 0.2357 mm layer thickness, 209.61°C nozzle temperature, 78.89% infill density, and
+    6.41 wt% fibre content, with predicted tensile and flexural strengths of 43.50 MPa and 53.55 MPa, respectively. Confirmatory
+    experiments at the optimized condition yielded tensile and flexural strengths of 40.68 MPa and 50.09 MPa, respectively.
+    The results demonstrate the applicability of RSM for identifying a balanced combination of material composition and FDM
+    processing parameters for sisal fibre-reinforced PLA composites.
+  venue: Proceedings of the Institution of Mechanical Engineers Part L Journal of Materials Design and Applications
+- title: The Effects of Post-Processing Treatment on the Surface Quality and Mechanical Properties of 3D Printed Parts Using
+    Fused Deposition Modeling (FDM) Process
+  date: 2026-10
+  url: https://doi.org/10.56201/ijemt.vol.11.no7.2025.pg203.211
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Hassan Isyaku Haruna
+  abstract: Fused Deposition Modeling (FDM) is one of the most widely used additive manufacturing techniques due to its cost-effectiveness,
+    ease of use, and versatility in material selection. However, FDM-printed parts often suffer from poor surface quality
+    and anisotropic mechanical properties, which limit their application in functional and high-precision components. Post-processing
+    treatments have emerged as a viable solution to address these limitations. This study investigates the effects of various
+    post-processing techniques on the surface quality and mechanical properties of FDM-printed parts. The study focuses on
+    thermal, chemical, and mechanical post-processing methods, including annealing and vapor smoothing. The results demonstrate
+    significant improvements in surface roughness, tensile strength, and dimensional accuracy, providing valuable insights
+    for optimizing FDM parts for industrial applications. Thermal annealing improved tensile strength and reduced anisotropy
+    but caused slight warping while chemical vapor smoothing significantly reduced surface roughness but slightly decreased
+    mechanical strength due to material softening.
+  venue: INTERNATIONAL JOURNAL OF ENGINEERING AND MODERN TECHNOLOGY
+- title: 'A Review of the Fused Deposition Modeling (FDM) Process: An Integrated Analysis of Materials, Manufacturing Parameters,
+    Mechanical Properties, Defect Formation, and Quality Assessment'
+  date: 2026-10
+  url: https://doi.org/10.55248/gengpi.07.1026.33106
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Marius-Valentin Drăgoi
+  - Cozmin Adrian Cristoiu
+  abstract: Fused Deposition Modeling (FDM) is widely used in polymer additive manufacturing, although printed component performance
+    depends on several interacting material and process-related factors. This review examines 60 selected publications from
+    2022 to 2026, covering thermoplastic materials, manufacturing parameters, mechanical properties, defect formation, and
+    quality assessment. The literature is organized into an integrated, process-oriented framework connecting material selection
+    and printing conditions with interlayer bonding, structural performance, manufacturing defects, and quality verification.
+    Five comparative tables and two conceptual schemes summarize material characteristics, defect mechanisms, inspection methods,
+    and optimization trade-offs. The analysis indicates that printing parameters influence mechanical performance and manufacturing
+    quality differently across conventional, reinforced, flexible, and recycled polymers. Conventional testing remains essential,
+    while sensor-based monitoring, computer vision, and machine learning offer complementary opportunities for defect detection
+    and process refinement. The review also highlights limitations associated with experimental comparability, process reproducibility,
+    internal defect characterization, and the generalization of intelligent monitoring approaches. Future research directions
+    include standardized testing, multimodal quality assessment, fatigue characterization, and material-specific optimization.
+    The resulting synthesis provides a structured reference for evaluating and improving FDM manufacturing processes.
+  venue: International Journal of Research Publication and Reviews
+- title: EFFECT OF INFILL DENSITY AND NOZZLE TEMPERATURE ON THE DRY SLIDING FRICTION BEHAVIOR OF FUSED DEPOSITION MODELING
+    PRINTED CARBON FIBER REINFORCED PLA AND PET COMPOSITES
+  date: 2026-10
+  url: https://avesis.kocaeli.edu.tr/publication/details/50144960-8553-4d1a-9dd7-7d9b490effff/oai
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - EMİNE ECEM İREZ
+  - Sinan Fi̇dan
+  - Mustafa Özgür Bora
+  abstract: ''
+  venue: Kocaeli Üniversitesi - AVESİS
+- title: PROFILOMETRIC ANALYSIS OF THE EFFECT OF INFILL DENSITY AND NOZZLE TEMPERATURE ON THE DRY RECIPROCATING SLIDING WEAR
+    VOLUME AND SURFACE TEXTURE OF FUSED DEPOSITION MODELING PRINTED CARBON FIBER REINFORCED PLA AND PET COMPOSITES
+  date: 2026-10
+  url: https://avesis.kocaeli.edu.tr/publication/details/64e2e9c6-28fb-45b2-b6dc-e2f541425f45/oai
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Sinan Fi̇dan
+  - EMİNE ECEM İREZ
+  - Satilmis URGUN
+  abstract: ''
+  venue: Kocaeli Üniversitesi - AVESİS
+- title: Mesostructure, Toolpaths and the Finite-Element Prediction Gap in the Flexural Response of Planar and Non-Planar
+    Fused Filament Fabrication
+  date: 2026-10
+  url: https://doi.org/10.3390/polym18202604
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Ivan Grgić
+  - Jubayer Ahmed Sajid
+  - Jure Marijić
+  abstract: The flexural response of a fused filament fabrication (FFF) part depends on the polymer, on the mesostructure
+    the toolpath builds from it, and on how that mesostructure is oriented to the bending load. This review examines these
+    factors for polylactic acid (PLA), polyethylene terephthalate glycol (PETG) and acrylonitrile butadiene styrene (ABS)
+    printed with planar and non-planar toolpaths, and how well finite-element models predict the result. Because the interlayer
+    bond forms while the polymer cools, crystallinity, annealing, moisture, ageing and test temperature shift flexural strength
+    and stiffness, in directions that differ between polymers and treatment windows. The toolpath is a primary mechanical
+    variable, with effects that depend on the test conditions. Of 84 finite-element studies, 26 are compared quantitatively
+    with a flexural experiment, 23 independently. Only 1 of those 26 treats curved-layer or non-planar deposition, and the
+    shortfall lies in the small number of non-planar studies that predict a mechanical response, not in a lower standard of
+    validation. None of the validated models makes the polymer constants depend on temperature, moisture or loading rate,
+    or gives the bond between layers of one polymer its own interface law, leaving thermal, hygroscopic and time-dependent
+    behaviour, with non-planar bending, as the clearest gaps.
+  venue: Polymers
+- title: Computational modeling and simulations of 3D printed polymer composites
+  date: 2026-10
+  url: https://doi.org/10.1016/b978-0-443-40547-1.00020-7
+  category: processes
+  subcategory: polymer-materials
+  authors:
+  - Srikanta Moharana
+  abstract: ''
+  venue: Elsevier eBooks
+- title: USE OF 3D PRINTING IN THE PRODUCTION OF CUSTOM PROSTHESES, ORTHOSES, AND ANATOMICAL MODELS FOR MEDICAL APPLICATIONS
+  date: 2026-10
+  url: https://doi.org/10.22533/at.ed.51572192615105
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Heloisa Balbinot Benevides
+  abstract: Additive manufacturing, commonly known as 3D printing, has established itself as a technology of strategic interest
+    for biomedical engineering because it enables the fabrication of customized devices and models based on digital patient
+    data.This study analyzes applications of 3D printing in the production of prostheses, orthoses, and customized anatomical
+    models, emphasizing manufacturing technologies, materials, workflows based on medical images, dimensional accuracy, costs,
+    clinical benefits, limitations, sterilization, biocompatibility, and validation requirements.This is a technical-scientific
+    narrative review, structured based on established literature on additive manufacturing in healthcare and relevant technical
+    standards.The findings indicate that processes such as fused deposition modeling, photopolymerization, selective laser
+    sintering, and powder bed metal fusion exhibit distinct profiles in terms of cost, resolution, mechanical strength, and
+    compatibility with clinical use.In rehabilitation, 3D-printed prostheses and orthoses facilitate geometric customization,
+    mass reduction, and rapid design iterations.In surgery, anatomical models derived from computed tomography and magnetic
+    resonance imaging contribute to preoperative planning, training, and interdisciplinary communication.However, clinical
+    effectiveness depends on adequate image segmentation, process traceability, dimensional validation, material selection,
+    post-processing, and quality control.It is concluded that 3D printing has high potential to expand personalized care,
+    but its safe adoption requires integration among engineering, medicine, materials science, and regulatory management.
+  venue: Open Minds International Journal
+- title: High-fill dot-based 3D microscale structures via voltage bias electric-field-driven fused-jet printing
+  date: 2026-10
+  url: https://doi.org/10.1016/j.jmatprotec.2026.119557
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Mengjie Wang
+  - Zhang Guangming
+  - Yinan Li
+  abstract: ''
+  venue: Journal of Materials Processing Technology
+- title: 'Process Optimization of Metal FDM AA6061: Thermal Debinding and Sintering Toward Enhanced Component Quality'
+  date: 2026-10
+  url: https://doi.org/10.3390/met16101154
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Noora Talib Mohammed Alzeyadi
+  - Felip Fenollosa-Artés
+  - José-María Cabrera
+  abstract: Fused Deposition Modeling (FDM) of AA6061 aluminum alloys faces several critical challenges, including limited
+    parameter control, inefficient thermal debinding, and sintering difficulties associated with oxide formation. These factors
+    hinder the broader adoption of FDM compared to other additive manufacturing (AM) techniques, often resulting in high porosity
+    and suboptimal mechanical performance. In this study, a commercially available AA6061–PLA filament feedstock was processed
+    via fused deposition modeling (FDM), followed by thermal debinding and sintering. The printing parameters, debinding cycle,
+    and sintering profile were systematically optimized to produce dense AA6061 components. The effects of these processing
+    conditions on relative density, microstructure, and mechanical properties were investigated. Optimized printing parameters,
+    combined with a staged thermal treatment, enabled the fabrication of high-density parts with reduced defects. Furthermore,
+    the introduction of a pre-sintering pressing step significantly enhanced the final properties, achieving a relative density
+    of 88.34% (11.66% porosity), a hardness of 83.67 ± 0.67 HV (n = 3), and a compressive strength of 115 ± 3 MPa (n = 3).
+    Scanning electron microscopy (SEM) revealed a relatively uniform microstructure with a refined pore distribution. These
+    results demonstrate the potential of FDM as a viable and promising approach for producing aluminum components with improved
+    structural and mechanical characteristics, and provide initial forming–microstructure–property relationships for sintered
+    AA6061 fabricated via metal FDM.
+  venue: Metals
+- title: Intelligent Modeling of Mechanical Behavior in FDM ‐Fabricated Graphene/ PLA Composites Using ANN , GEP , and RSM
+    Approaches
+  date: 2026-10
+  url: https://doi.org/10.1002/eng2.71120
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Jasgurpreet Singh Chohan
+  - Ritesh Dixit
+  - Farkhod Alisherov
+  abstract: ABSTRACT Polylactic acid (PLA) composites reinforced with graphene nanoplatelets (GNPs) offer potential for sustainable,
+    high‐performance additive manufacturing. This study investigates the influence of graphene loading, layer height, infill
+    density, and nozzle temperature on the mechanical behavior of fused deposition modeling (FDM)‐fabricated graphene/PLA
+    composites. A Taguchi L27 orthogonal array was employed to design the experiments, and tensile strength, compressive strength,
+    and Shore D hardness were evaluated experimentally. Scanning electron microscopy (SEM) was used to examine graphene distribution,
+    matrix–reinforcement contact, interlayer continuity, void formation, and fracture characteristics. Increasing graphene
+    content was associated with improved microstructural continuity and fewer visible interfacial defects. The composite containing
+    1.5 wt% graphene, printed at a layer height of 0.1 mm, 100% infill density, and a nozzle temperature of 220°C, exhibited
+    the highest observed mechanical responses, with tensile strength of 67.42 MPa, compressive strength of 81.35 MPa, and
+    Shore D hardness of 82.4. Artificial neural network (ANN), gene expression programming (GEP), and response surface methodology
+    (RSM) models were developed and compared using the coefficient of determination ( R 2 ), root mean square error (RMSE),
+    and mean absolute error (MAE). ANN demonstrated the best predictive performance, achieving R 2 values of 0.982, 0.978,
+    and 0.971 for tensile strength, compressive strength, and hardness, respectively. Confirmation experiments yielded prediction
+    errors below 1% for all three responses using ANN. The integrated experimental and computational framework supports mechanical
+    performance prediction and process‐parameter assessment for graphene‐reinforced PLA composites within the investigated
+    experimental domain.
+  venue: Engineering Reports
+- title: Técnicas de impresión 3D aplicadas a la odontología
+  date: 2026-10
+  url: https://cienciamatriarevista.org.ve/index.php/cm/article/view/2739
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Eyder Fabián Carrasco-Guano
+  - Jairo Vinicio Llundo-Nata
+  - Alejandra Monserrath Arellano-Pazmiño
+  abstract: 3D printing has become established in dentistry because of its accuracy and customization. The objective was to
+    describe the main 3D printing techniques used in dentistry and the critical stages of their workflow. A narrative literature
+    review was conducted in PubMed, SciELO, Redalyc and Google Scholar; 17 documents were analyzed. Stereolithography and
+    digital light processing were the preferred techniques for highly detailed parts; laser powder bed fusion, for strong
+    metal frameworks; fused deposition modeling, for low-cost models; and LCD and PolyJet technologies offered high resolution
+    and versatility. The choice depends on the clinical purpose and the material. Post-processing (washing, post-curing and
+    finishing) determined the mechanical properties and biocompatibility. It is concluded that 3D printing is a strategic
+    tool that requires standardized protocols and continuous training.
+  venue: CIENCIAMATRIA
+- title: 'Methotrexate–PLA Amorphous Dispersions: Thermodynamic and Kinetic Insights for Melt Processing toward FDM 3D Printing'
+  date: 2026-10
+  url: https://doi.org/10.1016/j.jddst.2026.109052
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Alma Lucia Villela Zumaya
+  - Anton Iemtsev
+  - Ozan Üstün
+  abstract: ''
+  venue: Journal of Drug Delivery Science and Technology
+- title: Scaffold Fabrication Protocols for Cultured Protein Structuring
+  date: 2026-10
+  url: https://doi.org/10.1007/978-1-0716-5675-4_13
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Rukshana Irani
+  - Ananya Chatterjee
+  - Kazi Layla Khaled
+  abstract: ''
+  venue: Methods and protocols in food science
+- title: 'Polymers and polymer composites: Properties, challenges, and future prospects in additive manufacturing'
+  date: 2026-10
+  url: https://doi.org/10.1016/b978-0-443-40547-1.00016-5
+  category: processes
+  subcategory: polymer-materials
+  authors:
+  - Srinivasu Gangi Setti
+  - Sathish Kumar Adapa
+  abstract: ''
+  venue: Elsevier eBooks
+- title: Effects of Reinforcements on the Viscoelastic Behavior of PETG Composites for Marine Structure
+  date: 2026-10
+  url: https://doi.org/10.5750/ijme.v168ia3(s).1956
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Tarun Kumar Gupta
+  - Vijay Chaudhary
+  - Aravindan Munusamy Kalidhas
+  abstract: This research examines viscoelastic, mechanical and environmental performance of additively manufactured PETG-based
+    composites as possible marine engineering products. PETG was strengthened with short carbon fibre (SCF), glass fibre (GF),
+    graphene nanoplatelets (GNP), carbon nanotubes (CNT), CaCO3, wood flour, and hybrid fillers. Fused deposition modelling
+    (FDM) was used to make specimens and was assessed by tensile, flexural, impact, hardness and dynamic mechanical analysis
+    (DMA) and water absorption and seawater aging tests. The findings have shown that reinforcement plays an important role
+    in determining performance, and carbon-based and hybrid composites (SCF + CNT) have shown a higher stiffness, damping
+    stability, and moisture ingress resistance. Consequently, natural and mineral fillers were more prone to water absorption
+    and less durable. Improved interfacial bonding was proved in nano- and hybrid-reinforced systems and shown by SEM analysis.
+    The results prove that hybrid PETG composites have a high structural stability and environmental resistance, and therefore,
+    are good candidates to lightweight marine parts subjected to saline environments.
+  venue: The International Journal of Maritime Engineering
+- title: 3D printed polymer composite for EMI shielding applications
+  date: 2026-10
+  url: https://doi.org/10.1016/b978-0-443-40547-1.00018-9
+  category: processes
+  subcategory: polymer-materials
+  authors:
+  - Mohammed Arif Poothanari
+  - Jiji Abraham
+  - Simon Muhič
+  abstract: ''
+  venue: Elsevier eBooks
+- title: Deformation Analysis of Bending Tests Using the GOM TRITOP System
+  date: 2026-10
+  url: https://doi.org/10.3390/engproc2026157033
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Vivien Nemes
+  - Brigitta Fruzsina Szívós
+  abstract: This paper investigates the applicability of the GOM TRITOP photogrammetric system for displacement measurement
+    in three-point bending tests of fused deposition modeling (FDM)-printed polylactic acid (PLA) specimens. Although TRITOP
+    was originally developed primarily for the high-precision measurement of static object states, this study explores its
+    extension toward deformation analysis by comparing discrete measurement stages recorded before loading and after fracture.
+    In this sense, the method does not provide continuous deformation monitoring as in conventional digital image correlation
+    (DIC)-based approaches, but enables marker-based displacement evaluation between defined loading states. Nine specimens
+    manufactured from different commercial filaments and infill configurations were tested, and the TRITOP results were validated
+    against digital dial-gauge measurements. The relative differences ranged from −1.3% to +2.3%, indicating good agreement.
+    The system also enabled the simultaneous tracking of punch and specimen-end displacements, revealing differences between
+    printing configurations and selected asymmetric bending responses. The results suggest that TRITOP can be practically
+    extended to stage-based displacement analysis of additively manufactured components.
+  venue: ''
+- title: The Influence of a Chamber Temperature on the Tensile Strength and Impact Toughness of PA6 in FDM 3D Printing
+  date: 2026-10
+  url: https://doi.org/10.1134/s0965545x26600377
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Le Duong
+  - Pham Thi Hong Nga
+  - Ngo Vu Nguyen
+  abstract: 'In fused filament fabrication/fused deposition modeling (FFF/FDM), the mechanical properties of Polyamide 6 (PA6)
+    are strongly governed by thermal conditions during printing, particularly the build chamber temperature, which controls
+    cooling rate, crystallinity, and interlayer bonding. This study evaluated three build chamber temperatures (30, 40, and
+    50°C) while keeping all other parameters constant to determine their effects on tensile strength, impact toughness, and
+    microstructure. Five specimens per condition were tested for tensile and impact properties, and fracture surfaces were
+    characterized by scanning electron microscopy (SEM). The results demonstrate a clear temperature dependence: increasing
+    the chamber temperature from 30 to 50°C enhanced tensile strength from 21.32 to 24.61 MPa and impact toughness from 13.58
+    to 14.35 kJ/m 2 , whereas 40°C yielded the lowest values of 16.09 MPa and 11.37 kJ/m 2 . SEM observations suggested that
+    specimens printed at 50°C exhibited improved filament fusion and fewer interlaminar voids, resulting in a more homogeneous
+    and ductile fracture surface, whereas specimens printed at 40°C showed less uniform interlayer bonding and a more heterogeneous
+    defect distribution. These observations are consistent with enhanced interlayer bonding under more favorable thermal conditions.
+    The findings indicate that approximately 50°C is the optimal build chamber temperature within the investigated range,
+    providing improved mechanical reliability of FFF/FDM-printed PA6 parts and a basis for optimizing the processing window
+    for load-bearing applications.'
+  venue: Polymer Science Series A
+- title: 'Rice straw waste-derived ABS composite filaments for additive manufacturing: mechanical characterization and fracture
+    analysis'
+  date: 2026-10
+  url: https://doi.org/10.1080/09276440.2026.2750584
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Yashpal
+  - Manish Singh
+  - Pankaj Kumar Singh
+  abstract: The growing adoption of polymer-based additive manufacturing has increased interest in sustainable reinforcement
+    materials derived from agricultural waste. However, the systematic use of rice straw in acrylonitrile butadiene styrene
+    (ABS) filaments for fused deposition modelling (FDM) remains relatively unexplored. In this study, alkali-treated rice
+    straw was incorporated into ABS at 2.5, 5, and 7.5 wt.% to produce composite filaments (1.75 ± 0.05 mm diameter), followed
+    by FDM fabrication of standardised specimens. Tensile and flexural properties were evaluated, and fracture surfaces were
+    examined using field-emission scanning electron microscopy. The 5 wt.% composite achieved the highest mean tensile strength
+    (23.28 MPa), elongation at break (7.53%), and flexural strength (20.82 MPa), whereas the 2.5 wt.% composite exhibited
+    the highest tensile and flexural moduli. At 7.5 wt.% rice straw, strength and ductility were reduced due to disrupted
+    matrix continuity and reduced stress transfer. Fractographic analysis revealed straw pull-out, interfacial debonding,
+    and localised heterogeneity. These findings establish the influence of rice-straw content on mechanical performance and
+    fracture behaviour, highlighting the potential of rice-straw-reinforced ABS composites for sustainable additive manufacturing.
+  venue: Composite Interfaces
+- title: Multi-objective design and validation of a bioinspired tri-zonal scaffold for tendon-bone interfaces
+  date: 2026-10
+  url: https://doi.org/10.1016/j.matdes.2026.117305
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Lorenzo B. Kunkels
+  - J. Yang
+  - Maria Klimopoulou
+  abstract: The tendon-bone interface exhibits a complex gradient in mechanical and morphological properties, enabling robust
+    load transfer between soft and hard tissues. Replicating this functionality in engineered scaffolds remains challenging.
+    Here, we present a computational-experimental framework for developing tri-zonal scaffolds with spatially varying stiffness
+    and zone-specific architectures for tendon-bone interface applications. A hybrid lattice combining strut-based and surface-based
+    geometries was used to generate tendon-like, transitional, and bone-like zones. Homogenization-based modeling and 3D finite
+    element simulations were used to screen 36 feasible design configurations. Two representative designs were fabricated
+    via fused deposition modeling and integrated with an alginate-gelatin hydrogel. Micro-computed tomography was used to
+    assess manufacturing fidelity, and identify architecture-dependent geometric deviations, while mechanical testing characterized
+    the response of the fabricated scaffolds and hydrogel-integrated constructs. Design A exhibited a 72–93% higher maximum
+    tensile force than Design B, with failure observed predominantly within the hydrogel adjacent to the scaffold-hydrogel
+    interface. Preliminary in vitro observations with MC3T3-E1 preosteoblasts showed qualitative differences in cell morphology
+    and spatial organization between scaffold architectures and zones. These findings demonstrate the use of a multi-objective
+    design framework for integrating zone-specific mechanical and morphological requirements and provide a basis for further
+    development of engineered soft-hard tissue interfaces.
+  venue: Materials & Design
+- title: AI-driven digital twin with process-aware decision validation for real-time fault diagnosis and autonomous intervention
+    in FDM manufacturing systems
+  date: 2026-10
+  url: https://doi.org/10.1007/s40964-026-02012-z
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Saeede Sadat Alavi
+  - Atefeh Amindoust
+  abstract: ''
+  venue: Progress in Additive Manufacturing
+- title: Design of a Low Cost 3D Printer
+  date: 2026-10
+  url: https://doi.org/10.55041/ijsrem68303
+  category: processes
+  subcategory: fdm-process
+  authors:
+  - Aryan Meshram
+  - Kunal Zade
+  - Krunal Vaidya
+  abstract: The current study outlines the design, development, and experiment-based evaluation of a low-cost fused deposition
+    modeling (FDM) 3D printer intended for education and rapid prototyping applications. The printer comprises a Cartesian
+    motion system, a mechanical frame, a filament extrusion mechanism, a heated build platform, and an Arduino Mega 2560-based
+    control system equipped with RAMPS 1.4 electronics, A4988 stepper drivers, and Marlin firmware. Modeling and G-code generation
+    were conducted with Bambu Studio. The developed prototype is 520 × 505 × 440 mm in size and allows to get a nominal build
+    volume of 200 × 200 × 200 mm. Performance was estimated on the basis of five nominal 20 mm calibration cubes, filament
+    feeding calibration, temperature measurements, visual evaluation of print quality, and printing time and material consumption
+    measurement. The average measured dimensions of the calibration cubes are 19.96 mm, 19.98 mm, and 20.30 mm in the X, Y,
+    and Z directions, correspondingly. Filament feeding at the commanded 50 mm resulted in 50.6 mm measured feed, which corresponds
+    to the deviation of 1.2%. The measured temperature ranges were 55.30–55.59 °C for the heated bed and 200.19–219.21 °C
+    for the hot end. Printing of the calibration cube took 78 minutes and required 3.43 g of PLA filament. Visual evaluation
+    showed good bed adhesion and warping resistance of the print but also revealed some defects that require further calibration.
+  venue: INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT
+- title: Only skin deep? Depth-resolved photo-oxidation of 3D printed polymers PLA, ABS, PETG, HIPS and PC after 322 days
+    of continuous UV exposure
+  date: 2026-10
+  url: https://doi.org/10.1016/j.mtcomm.2026.116436
+  category: materials
+  subcategory: fdm-process
+  authors:
+  - Jan Tomáštík
+  - Karolina Siskova
+  - Lukáš Vaclavek
+  abstract: This study investigates the effect of long-term UV radiation exposure on the mechanical and structural properties
+    of selected polymeric materials – PLA, ABS, ABST, PETG, HIPS and PC – fabricated using 3D-print based Fused Filament Fabrication
+    (FFF) method. Existing research in the field of polymers weathering has predominantly examined combined degradation factors
+    (UV irradiation, humidity and thermal cycling) over the timescales rarely exceeding a few months, which prevents attribution
+    of property changes to individual agents. To isolate the contribution of UV radiation specifically, samples were exposed
+    up to 7744 consecutive hours (i.e. 322 days) of UV irradiation in an environmental cell with controlled humidity and temperature.
+    The mechanical properties were characterized using nanoindentation, which allows for spatially resolved measurements of
+    hardness and elastic modulus in the near-surface region, thereby enabling the detection of degradation gradients on the
+    order of tens of micrometers. The lack of methodological consistency in the current literature hinders the cross-material
+    comparison; this study addresses the gap by applying nanoindentation uniformly across wide range of selected materials
+    prepared and tested under identical conditions, while studying these properties after a very long exposure to UV radiation.
+    Based on our analysis of mechanical properties, PLA showed no measurable change in hardness or reduced modulus over the
+    full exposure period. PC showed a smaller increase than the other materials, which could not be clearly separated from
+    the drift measured on stored control samples. ABS and HIPS underwent surface hardening with a mechanical properties’ gradient
+    extending beyond 10 µm, while for PETG, the most strongly affected material, the gradient was confined to a near-surface
+    zone shallower than 10 µm. The increases in hardness and modulus were accompanied by the development of surface crack
+    networks observed by confocal microscopy, indicating a change in fracture behaviour. For PLA, ABS and PETG, vibrational
+    spectroscopies (Raman scattering and infrared absorption) were used to link mechanical property observations to structural
+    changes at the molecular level – PLA showed no spectral changes upon UV exposure, while ABS and PETG exhibited modifications
+    in both characteristic and deformation vibration bands, consistent with photooxidative degradation of their respective
+    polymer chains.
+  venue: Materials Today Communications
+- title: Investigation of the most suitable 3D printing method and tissue equivalent materials for mimicking glandular-adipose
+    tissues for production of breast phantom
+  date: 2026-10
+  url: https://doi.org/10.1007/s13246-026-01819-y
+  category: materials
+  subcategory: fdm-process
+  authors:
+  - Aziz Safi
+  - Haluk Yücel
+  abstract: ''
+  venue: Physical and Engineering Sciences in Medicine
+- title: 'Touching 3D Printing: A Haptic and Interactive Format for Understanding the Influence of Manufacturing Parameters
+    on Personalized Orthopedics'
+  date: 2026-10
+  url: https://doi.org/10.5281/zenodo.23569033
+  category: materials
+  subcategory: fdm-process
+  authors:
+  - Héctor Rivada-Rodríguez
+  - Adriana Conde-Fernández
+  - Jaime Rodríguez
+  abstract: 'Haptic poster presented at the II Iberian Early-Career Researchers'' Congress of the Campus Terra: Roots of Knowledge
+    2026 (Lugo, Spain, 21–23 October 2026), poster P0_16. Additive manufacturing (MEX, FDM, and FFF) has democratized the
+    creation of personalized orthopedic devices [1]. However, the variability in mechanical outcomes derived from printing
+    parameters and material selection requires a deep understanding of their actual physical properties. This work proposes
+    an innovative science communication format: a haptic and interactive poster where the audience can manipulate different
+    objects manufactured with accessible polymers (PLA, PETG, TPU, and ABS) to tactilely evaluate the materials'' response
+    to different manufacturing configurations. The record contains the poster PDF, photographs of the physical poster, the
+    STL files of all printed samples (STL.zip) and a README with the printer, filament and slicing parameters of each piece,
+    so the poster can be reproduced. The samples cover five topics: material comparison, print orientation (anisotropy), layer
+    height, infill pattern, and a rigid shell with a soft liner. Note: the poster lists a nozzle temperature of 250 °C for
+    PETG; the PETG parts were actually printed at 245 °C (see README). The QR code on the poster links to a related review
+    article by the same authors on the same topic, for further reading: https://doi.org/10.1016/j.mtcomm.2026.116294 References
+    cited in the poster:[1] Górski F, Wichniarek R, Kuczko W, Żukowska M. Study on properties of automatically designed 3D-printed
+    customized prosthetic sockets. Materials. 2021;14(18):5240.[2] Biswas P, Guessasma S, Li J. Numerical prediction of orthotropic
+    elastic properties of 3D-printed materials using micro-CT and representative volume element. Acta Mechanica. 2020;231:503–516.[3]
+    Noori H. Interlayer fracture energy of 3D-printed PLA material. The International Journal of Advanced Manufacturing Technology.
+    2019;101:1959–1965. This poster received the Best Poster Award at the congress.'
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Data driven framework for defect detection in polymer additive manufacturing
+  date: 2026-10
+  url: https://doi.org/10.1007/s44245-026-00237-4
+  category: part-quality
+  subcategory: polymer-materials
+  authors:
+  - Anand R. Lakkundi
+  - M. Shivaprasad
+  - G. J. Satish
+  abstract: Although additive manufacturing (AM) has enabled the production of intricate and customized polymer components,
+    ensuring part quality and consistency remains a major challenge. Traditional defect detection methods rely on isolated
+    sensing approaches and lack the ability to operate adaptively in real time. While several studies apply machine learning
+    (ML) or sensor-based monitoring, the existing literature remains fragmented, with no unified framework that connects defect
+    mechanisms, data acquisition strategies, ML model selection, and feedback-based process control. The novelty of this study
+    lies in proposing a structured, data-driven conceptual framework specifically tailored for defect detection in polymer
+    AM. This framework synthesizes insights from sensor fusion, signal processing, and machine learning into a coherent, step-by-step
+    structure that has not been formalized in prior reviews. In addition, the paper critically evaluates existing detection
+    methods, identifies unresolved gaps across sensing, data pipelines, and model robustness, and outlines research opportunities
+    such as multi-sensor integration, digital-twin-enabled monitoring, and real-time adaptive control. By positioning defect
+    detection as a closed-loop data-driven system, this work provides a clear roadmap for progressing polymer AM toward more
+    autonomous and reliable manufacturing.
+  venue: Discover Mechanical Engineering
+- title: 'Next-Generation Friction Stir Additive Manufacturing: Emerging Technologies and Machine Learning for Process Excellence'
+  date: 2026-10
+  url: https://doi.org/10.3791/73448
+  category: part-quality
+  subcategory: polymer-materials
+  authors:
+  - Pavani Srikavya Buddepu
+  - Sateesh Bandaru
+  - Bharat Kumar Chigilipalli
+  abstract: Friction Stir Additive Manufacturing (FSAM) has been recognized as a promising solid-state additive manufacturing
+    (AM) technology for manufacturing metallic components with refined microstructures and enhanced mechanical properties.
+    Unlike fusion-based AM processes, FSAM operates below the melting temperature, reducing solidification-related defects
+    such as porosity, excessive residual stresses, and hot cracking. This review critically summarizes recent advances in
+    FSAM, including tool design, thermal management, process parameter optimization, functionally graded structures, and multi-material
+    fabrication. It also examines the integration of Artificial Intelligence (AI) and Machine Learning (ML) techniques, such
+    as Artificial Neural Networks (ANN), Extreme Gradient Boosting (XGBoost), and Random Forest (RF), for process parameter
+    prediction, property optimization, process monitoring, and defect detection. Current challenges associated with process
+    scalability, data availability, tool wear, interlayer bonding, heat accumulation, and model generalization are critically
+    discussed. Future research directions, including explainable AI, real-time closed-loop process control, digital twins,
+    and standardized datasets, are also highlighted. This review provides an in-depth examination of the status of FSAM by
+    integrating recent technological advances with intelligent manufacturing approaches and highlights key opportunities for
+    sustainable, reliable, and data-driven solid-state additive manufacturing.
+  venue: Journal of Visualized Experiments
+- title: Reliability of CT digital twins for defect segmentation and probability of detection estimation in AM parts
+  date: 2026-10
+  url: https://doi.org/10.1007/s10845-026-02982-5
+  category: part-quality
+  subcategory: defects
+  authors:
+  - Catherine Desrosiers
+  - Vladimir Braïlovski
+  - Salah Eddine Brika
+  abstract: ''
+  venue: Journal of Intelligent Manufacturing
+- title: Temporally Gated Active Thermography for Defect Detection in Laser-Based Powder Bed Fusion of Metals
+  date: 2026-10
+  url: https://doi.org/10.1007/s10921-026-01419-6
+  category: part-quality
+  subcategory: polymer-materials
+  authors:
+  - Christian Sauer
+  - Dennis Höfflin
+  - Andreas Schiffler
+  abstract: 'Abstract Laser Powder Bed Fusion of Metal is a key additive manufacturing technology, but its industrial adoption
+    is limited by inherent process imperfections. While in-situ non-destructive testing is essential, current monitoring methods
+    face limitations. In-line active thermography, as a promising testing approach, faces significant challenges with overpowering
+    reflections from the high-energy process laser, which can saturate sensors and mask faint, defect-related thermal emissions.
+    This paper introduces a novel stroboscopic active thermography methodology designed to overcome this limitation. The approach
+    utilizes the Synchronized Path Infrared Thermography dual scanhead setup, which employs the processing laser as a modulated
+    thermal excitation source. This system is based on precise temporal gating of the acquisition of the IR camera: it isolates
+    the desired thermal emission signal from interfering laser reflections, and it ensures that the same, specific segment
+    of the material cooling curve is consistently sampled for every measurement point. The stroboscopic approach was validated
+    on specimens with artificial subsurface defects. It successfully eliminates sensor saturation, providing a high-fidelity
+    thermal signal for analysis. The system identifies voids with actual mean diameters as small as 111 $$\upmu $$ μ m at
+    depths of down to 40 $$\upmu $$ μ m. The study also quantifies the technical boundaries of the method, where signal attenuation
+    from thermal diffusion limits detection at 120 $$\upmu $$ μ m depth to the largest defect measuring 977 $$\upmu $$ μ m.'
+  venue: Journal of Nondestructive Evaluation
+- title: 'Artificial Intelligence and Machine Learning in Composite Manufacturing: Recent Advances, Emerging Trends, Digital
+    Twins, and Future Perspectives'
+  date: 2026-10
+  url: https://doi.org/10.20944/preprints202610.1865.v1
+  category: part-quality
+  subcategory: polymer-materials
+  authors:
+  - Jogendra Kumar
+  - Bhuvaneswaran Selvam
+  - Vishwajeet Kumar
+  abstract: Artificial intelligence (AI) and machine learning (ML) are revolutionizing composite manufacturing by enabling
+    data-driven forecasts, process optimization, defect identification, and intelligent process control. The objective of
+    this review is to discuss the recent innovations and emerging trends in the application of AI/ML in the major composite
+    manufacturing technologies, such as automated fiber placement (AFP), automated tape laying (ATL), resin transfer molding
+    (RTM), resin infusion, compression molding, pultrusion, additive manufacturing, and non-destructive evaluation (NDE).
+    This paper discusses the capabilities and limitations of advanced technologies, including deep learning, physics-informed
+    machine learning, transfer learning, multimodal learning, explainable AI, digital twin, surrogate modeling, and closed-loop
+    control, and their future potential. A comprehensive literature survey explored the latest developments in composite manufacturing
+    using AI/ML. The review categorized the research by manufacturing process, AI/ML approach, sensor and inspection modality,
+    prediction and/or optimization objective, and reported performance. The review thoroughly addressed applications in process
+    monitoring, defect prediction, quality evaluation, surrogate modeling, intelligent inspection, and adaptive process control.
+    The review also surveyed data scarcity, domain shift, model interpretability, multimodal sensing, and the incorporation
+    of physical process knowledge. The literature study reveals a substantial potential for AI/ML in prediction, inspection,
+    process optimization, and manufacturing decision-making. Reported applications include RTM filling-pattern prediction,
+    automated thermographic and ultrasonic flaw identification, process-properties prediction, and composite additive-manufacturing
+    inspection. For example, a PixelRNN surrogate model predicted RTM filling patterns with up to 97.35% accuracy, at roughly
+    half the computational cost of exhaustive simulation. In ultrasonic composite inspection, ML-based thermographic impact-damage
+    detection reached 98.8% classification accuracy, while DenseNet121 and VGG19 reached 98.6%. Integrating deep learning
+    and infrared thermography in fiber-reinforced composite additive manufacturing achieved a mean average precision of 99.3%.
+    Under the reported experimental conditions, the defect-area error was within 6%. These results are promising, but differences
+    in datasets, sensors, fault types, validation procedures, and performance measures make direct comparisons difficult.
+    Major challenges for industrial adoption include small, proprietary datasets; non-standard data formats; domain shift
+    between materials and machines; sensor variability; limited model interpretability; the simulation-to-reality gap; cybersecurity
+    and intellectual property constraints; and a lack of closed-loop validation. The assessment noted that purely data-driven
+    methods may not transfer easily when processing conditions and/or the material system change. Thus, a promising approach
+    to build more reliable and transferable Intelligent manufacturing systems is to use hybrid methods that combine artificial
+    intelligence/machine learning with physical knowledge, multimodal sensing, digital twins, uncertainty quantification,
+    and human expertise. In composite manufacturing, AI/ML is becoming an important enabling technology for next-generation
+    approaches such as automated inspection, fault categorization, surrogate modeling, production-process prediction, and
+    parameter optimization. Future work should move beyond laboratory-level prediction accuracy toward validated manufacturing
+    applications with standard datasets, third-party validation, machine validation, physics-informed and multimodal learning,
+    digital-twin integration, and measurable manufacturing-level performance indicators. Coupling AI/ML with physical process
+    models, intelligent sensing, and human-in-the-loop decision-making can enable even more autonomous, high-quality, low-waste,
+    adaptable, and intelligent composite manufacturing systems.
+  venue: Preprints.org
+- title: 'Non-Destructive Evaluation of Engineered Surfaces: A Failure-Mode-Driven Review of Inspection Methods, Evidence,
+    and NDE 4.0 Qualification'
+  date: 2026-10
+  url: https://doi.org/10.67525/6f1rjf77
+  category: part-quality
+  subcategory: polymer-materials
+  authors:
+  - Kuldeep Sharma
+  - R. P. Sharma
+  abstract: Engineered surfaces are not simple extensions of the underlying material. Coatings, diffusion-treated cases, cold-sprayed
+    repairs, laser-clad overlays, peened layers, and additively manufactured surfaces have gradients and interfaces that determine
+    how they fail and how they can be inspected. This critical narrative review examines non-destructive evaluation (NDE)
+    methods by the physical property they measure, the failure mechanism of interest, and the evidence needed to support an
+    inspection decision. Magnetic, electromagnetic, thermal, ultrasonic, acoustic, optical, and X-ray methods are compared
+    without assigning universal detection depths or capability scores. The main contribution is a proposed failure-mode-to-evidence
+    framework that separates (i) the service-relevant condition, (ii) its measurable physical response, (iii) calibrated detection
+    or estimation, and (iv) the authority to accept a component. Four application pathways illustrate how this distinction
+    changes inspection planning for coating disbonding, weak cold-spray interfaces, residual-stress changes in treated steel,
+    and additive-manufacturing surface-connected defects. In-process monitoring and machine learning can direct attention
+    to suspect regions, but their results do not by themselves establish final part conformity. The review concludes with
+    a practical qualification checklist addressing representative reference specimens, probability of detection, uncertainty,
+    transferability, and traceable human decisions. The framework is a synthesis and proposed practice, not a performance-validated
+    inspection procedure.
+  venue: South Mediterranean University Journal of Pure and Applied Sciences
+- title: Metal Processing
+  date: 2026-10
+  url: https://doi.org/10.5281/zenodo.23463471
+  category: part-quality
+  subcategory: fdm-process
+  authors:
+  - syens
+  abstract: 'Syens optical emission spectrometer for metal analysis. The metal processing industry, encompassing forging,
+    rolling, machining, and heat treatment, demands high-precision elemental analysis to ensure components meet rigorous standards
+    for strength, ductility, corrosion resistance, and machinability. Impurities like carbon, sulfur, oxygen, nitrogen, or
+    hydrogen, or incorrect alloy compositions, can cause defects like cracking, porosity, or reduced fatigue life, similar
+    to aerospace applications where titanium and steel alloys are tested to prevent embrittlement and ensure reliability in
+    critical components like jet engines and airframes. Syens’ analytical instruments, including the High-Frequency Infrared
+    Carbon Sulfur Analyzer, Full Spectrum Direct Reading Spectrometer, and Oxygen, Nitrogen, and Hydrogen Analyzer, provide
+    rapid, accurate measurements to optimize metal processing workflows and ensure compliance with international standards.
+    Below, we detail their specific applications in metal processing. High-Frequency Infrared Carbon Sulfur Analyzer This
+    analyzer employs high-frequency induction furnace combustion and infrared absorption to measure carbon and sulfur content,
+    critical for controlling the mechanical properties and machinability of metals, akin to aerospace requirements for C/S
+    analysis in alloys to ensure workability and durability. Key Applications in Metal Processing: Steel Alloys: Quantifies
+    carbon (0.0001–99.99%) and sulfur (0.0001–99.99%) in stainless steel or mold steel during forging, rolling, or heat treatment
+    to optimize hardness, prevent brittleness, and ensure suitability for machined components like gears or shafts. Non-Ferrous
+    Metals: Analyzes sulfur in copper, nickel, or zinc alloys used in electrical connectors or precision parts to avoid sulfide
+    inclusions that impair conductivity or strength; carbon testing supports quality in aluminum extrusions. Process Auxiliaries
+    and Scrap: Measures C/S in fluxes, refractories, or recycled scrap to maintain furnace efficiency and ensure consistent
+    alloying during processing. Benefits: With sensitivity down to 0.1 ppm and accuracy of ≤0.8% RSD, the analyzer delivers
+    results in ≤45 seconds, supporting high-throughput production (up to 60 samples/hour). Features like intelligent dust
+    removal and multi-point correction ensure compliance with ISO 9556 (carbon) and ISO 4935 (sulfur) standards. Full Spectrum
+    Direct Reading metal spectrometer This spectrometer provides comprehensive multi-element analysis to verify alloy compositions
+    and detect trace impurities, mirroring aerospace practices for ensuring precise ratios in superalloys for high-performance
+    components. Key Applications in Metal Processing: Ferrous Alloys: Quantifies elements like C, Si, Mn, P, S, Ni, Cr, Mo,
+    and V in cast iron, mold steel, or stainless steel for forged or machined parts, ensuring strength, corrosion resistance,
+    and machinability. Non-Ferrous Alloys: Analyzes Si, Fe, Cu, Mg, Mn, Ni, Pb, Sb, and Bi in aluminum, zinc, copper, or magnesium
+    alloys for rolled sheets, extrusions, or precision components, maintaining quality for lightweight applications. Recycled
+    Materials: Evaluates scrap metal for consistent alloying, detecting impurities to prevent defects in processed parts.
+    Benefits: Full-spectrum detection enables rapid, high-resolution profiling of solids and powders, facilitating real-time
+    quality control and adjustments in high-volume manufacturing lines. Oxygen, Nitrogen, and Hydrogen Analyzer Gaseous impurities
+    like oxygen, nitrogen, and hydrogen can cause porosity, embrittlement, or reduced ductility in processed metals, similar
+    to aerospace concerns with titanium alloys where ONH analysis prevents cracking and ensures structural integrity. Key
+    Applications in Metal Processing: Steel and Iron Processing: Measures O (0.00005–3.0%), N (0.00005–3.0%), and H (0.0005–0.19%)
+    in forged or heat-treated steel to prevent gas entrapment and inclusions, ensuring robust parts for machinery or structural
+    applications. Non-Ferrous Alloys: Analyzes oxygen in aluminum or copper alloys during rolling or extrusion to avoid oxidation-induced
+    defects; hydrogen detection prevents porosity in magnesium components. Powder Metallurgy: Tests O/N/H in metal powders
+    for additive manufacturing or sintered parts, ensuring suitability for precision applications like 3D-printed components.
+    Benefits: Using inert gas fusion at up to 3500°C, this analyzer achieves 1 ppm (O/N) and 0.2 ppm (H) accuracy in 120–240
+    seconds, with automated sample introduction and compliance with industry standards for reliable, repeatable results. Syens’
+    analyzers enhance quality assurance and process efficiency in metal processing, delivering defect-free, high-performance
+    components. For Metal Spectrometer Price and buy oes metal analyzer, contact us. As a trustworthy and reliable analytical
+    equipment suppliers, we provide you with elemental analyzer.'
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'Architected Infill Design in FDM-Printed PLA–ABS Sandwich Structures: Impact of Infill Pattern on Mechanical Structural
+    Performance'
+  date: 2026-10
+  url: https://doi.org/10.1007/s11665-026-15343-3
+  category: slicing
+  subcategory: fdm-process
+  authors:
+  - Anupam Sarkar
+  - Archisman Dasgupta
+  - Prasenjit Dutta
+  abstract: ''
+  venue: Journal of Materials Engineering and Performance
+- title: Influence of Infill Geometry and Material Type on the Mechanical Performance of FDM-Printed PLA, PLA Wood, and PETG
+    Components
+  date: 2026-10
+  url: https://doi.org/10.1007/s11665-026-15100-6
+  category: slicing
+  subcategory: fdm-process
+  authors:
+  - Md Ashequl Islam
+  - Muhammad Danial Yunus
+  - Khairul Salleh Basaruddin
+  abstract: Additive manufacturing (AM) using fused deposition modeling (FDM) enables the fabrication of lightweight polymer
+    components with tailored mechanical properties. However, the combined influence of material type and infill architecture
+    on mechanical performance remains insufficiently understood. This study investigates the effects of three infill geometries
+    (Concentric, Cubic, and Gyroid) and three thermoplastic materials (PLA, PLA-Wood, and PETG) on the tensile, flexural,
+    and compressive behavior of FDM-printed specimens fabricated at 70% infill density. Mechanical testing was performed according
+    to ASTM D638, ASTM D790, and ASTM D695 standards, and the results were analyzed using the Taguchi method. The Concentric
+    pattern produced the highest tensile strength and modulus across all materials, with improvements of up to 45% compared
+    with Cubic and Gyroid structures. Cubic exhibited the highest flexural modulus, while Gyroid and Cubic generally provided
+    superior compressive strength due to enhanced load redistribution. Taguchi analysis identified material type as the dominant
+    factor influencing mechanical performance, contributing 74.4, 91.1, and 77.1% of the variation in tensile, flexural, and
+    compressive strengths, respectively. SEM observations revealed that fracture was governed primarily by interlayer delamination,
+    void-assisted crack propagation, and interfacial debonding. The results demonstrate that infill architecture governs load-transfer
+    mechanisms, whereas material selection exerts the strongest influence on overall mechanical performance. These findings
+    provide practical guidelines for optimizing FDM-printed structures for lightweight engineering and biomedical applications.
+  venue: Journal of Materials Engineering and Performance
+- title: 'From Local Biomass to 3D-Printing Feedstocks: Evaluating Lebanese Natural Fiber Resources for Additive Manufacturing'
+  date: 2026-10
+  url: https://doi.org/10.3390/fib14100123
+  category: slicing
+  subcategory: fdm-process
+  authors:
+  - Anna-Maria ElBayssari
+  - Melissa Said
+  abstract: 'Natural-fiber-reinforced polymer composites have received increasing attention in additive manufacturing (AM),
+    particularly in material extrusion and vat photopolymerization. Natural fibers are attractive for these applications because
+    they are biodegradable, relatively inexpensive, and can provide an alternative to conventional reinforcements. However,
+    most studies have focused on a limited number of widely used fibers, such as flax, hemp, jute, and kenaf. Other natural
+    fibers that are locally available in regions such as the Eastern Mediterranean and the Levant remain much less studied,
+    especially in Lebanon. This review focuses on the potential of natural fibers available in Lebanon for additive manufacturing
+    applications. Three types of information are considered. First, national agricultural data are used to identify crops
+    and biomass sources that are actually available in the country. Second, previous studies carried out by Lebanese researchers
+    are examined. These studies have investigated several local fibers, including hemp, banana, fan palm, and reed (Phragmites
+    australis), although most of this work has focused on cement-based materials rather than polymer composites. Finally,
+    these findings are compared with the international literature on natural fiber additive manufacturing, where direct experimental
+    studies are already available for six of the eight fibers considered in this review. Olive wood waste has been compounded
+    into PLA and fused-filament-fabricated with full mechanical and life-cycle characterization; artichoke stem waste has
+    been compounded into epoxy and stereolithography-printed, with a tensile strength increase near 55%; hemp fiber has been
+    compounded into PLA and fused-deposition-printed, with a 29.6% tensile strength increase at 2.5 wt% loading; and banana
+    fiber, in combination with jute, has recently been fused-deposition-printed in PLA with full mechanical characterization;
+    date palm fiber has been compounded into PLA and fused-deposition-printed, with an increase of 10.12% and 6.53% in yield
+    and tensile strengths, respectively, compared to neat PLA; and tobacco stalk fiber has been compounded into PLA and FDM-printed,
+    with infill pattern shown to substantially affect tensile and impact strength. These percentage improvements are not directly
+    comparable across fibers, since each study used a different polymer matrix, fiber loading, and printing process. Hemp
+    carries an additional regional dimension: a 2009 Lebanese Ministry of Agriculture/UNDP cultivation pilot, whose locally
+    grown fiber outperformed imported industrial hemp in mechanical testing, together with Lebanon’s 2020 legalization of
+    industrial hemp cultivation. Both the pilot and the legal pathway remain far from an active domestic supply chain, and
+    neither should be confused with the large-scale, high-THC drug-type cannabis cultivated in the Bekaa Valley. Three further
+    candidates, reed, fan palm, and cereal straw, have strong Lebanese experimental or agricultural grounding but no 3D-printing
+    validation (cereal straw has only non-printed polymer data), representing the clearest targets for new experimental work.
+    We synthesize this evidence against the known processing constraints of natural fiber 3D-printing (hydrophilicity, thermal
+    degradation, interfacial bonding) and propose a prioritized research agenda for closing the identified gaps.'
+  venue: Fibers
+- title: Experimental Investigation of Mechanical Properties for ABS and PETG Materials Under Varying Temperatures
+  date: 2026-08
+  url: https://doi.org/10.1922/ejprd.v34i13s.2211
+  category: part-quality
+  subcategory: fdm-process
+  authors:
+  - Sanjay Sharma
+  - Ishbir Singh
+  - Suketu Jani
+  abstract: Additive Manufacturing (AM) in general, and the widely utilized fused deposition modeling (FDM) technique in particular,
+    have led to a paradigm shift in advanced manufacturing processes because of their ability to produce complex geometry
+    rapidly and in a tool-less manner. Although being widely implemented across various industries, the mechanical strength,
+    surface texture, and environmental stability of FDM-fabricated parts still critically depend on the choice of a thermoplastic
+    material and its optimal thermal extrusion parameters. This work presents the results of a thorough experiment dedicated
+    to the evaluation of the thermomechanical properties and surface topography of pristine synthetic polymers and bio-composites
+    made of them under highly controlled thermal gradients. The primary materials investigated in the course of this study
+    are Acrylonitrile Butadiene Styrene (ABS), Polyethylene Terephthalate Glycol (PETG), and new ABS-based composite material
+    reinforced with natural peanut shell particulates. In order to conduct a comprehensive study, a set of kinematic parameters,
+    including a constant deposition speed of 50 mm/s, a layer height of 0.2 mm, 100% infill density, isothermal bed temperature
+    of 90°C, and alternate raster angle of 45°/-45° were maintained across all experiments. The work systematically studies
+    the ultimate tensile strength (UTS) and arithmetic surface roughness (Ra) of the investigated samples. The study is organized
+    in four stages. The first stage involves the examination of thermo-mechanical properties of pure ABS over the temperature
+    gradient of 240°C - 260°C. The second stage comprises a longitudinal study of ABS to evaluate the kinetics of mechanical
+    degradation during the six-month ambient aging process. The third stage features a detailed comparative analysis of the
+    mechanical behaviour of ABS and PETG within a temperature gradient of 240°C-270°C at 5°C interval. Finally, the fourth
+    stage involves the evaluation of mechanical performance and adhesion mechanics of ABS reinforced with peanut shell composites.
+    Overall, the analysis showed that strict thermal control influences the diffusion process across inter-layers and regulates
+    the proper ratio between mechanical strength and surface fidelity. Besides, the addition of natural biocomposites leads
+    to significant changes in rheology, thermodynamics, and tensile properties of the matrix. In particular, although biocomposites
+    improve the tensile modulus, they demonstrate thermal instability at standard FDM extrusion temperatures, thus reducing
+    UTS and increasing surface porosity.
+  venue: European Journal of Prosthodontics and Restorative Dentistry
+- title: Compressive behaviour and damage evolution of cementitious composites incorporating 3D hollow auxetic aggregates
+  date: 2026-10
+  url: https://doi.org/10.1016/j.cemconcomp.2026.106884
+  category: processes
+  subcategory: composites
+  authors:
+  - Xiangyu Zhang
+  - Guowei Ma
+  - Li Wang
+  abstract: ''
+  venue: Cement and Concrete Composites
+- title: Stagewise multi-material topology optimization reducing material switching in additive manufacturing
+  date: 2026-10
+  url: https://doi.org/10.1016/j.ijmecsci.2026.112206
+  category: generative-design
+  subcategory: topology-optimization
+  authors:
+  - Seungheon Shin
+  - Hayoung Chung
+  abstract: ''
+  venue: International Journal of Mechanical Sciences
+- title: DIGITAL DESIGN METHODS FOR HIGH-TECH COMPONENTS VIA TOPOLOGY OPTIMIZATION FOR ADDITIVE MANUFACTURING
+  date: 2026-10
+  url: https://doi.org/10.58168/couforcom2026_182-188
+  category: generative-design
+  subcategory: fdm-process
+  authors:
+  - Maksim Gnusov
+  - Mihail Voskoboinik
+  abstract: This paper provides a comprehensive review of modern approaches to integrating topology optimization (TO) methods
+    with additive manufacturing (AM) technologies. It examines the synergy between the ability of TO to generate complex geometric
+    configurations and the capacity of AM to realize them. Particular attention is paid to addressing manufacturability challenges,
+    such as the minimization of support structures, accounting for material anisotropy, multiscale design of lattice structures,
+    and part orientation optimization. The practical part of the work describes the digital model preparation process (slicing),
+    a comparative analysis of AM methods (FDM, SLA, SLS, etc.), and the experimental implementation of prototype components
+    for a forestry soil-spraying machine using FDM technology on a Picaso printer with ABS+ plastic.
+  venue: ''
+- title: 'Gaussian ensemble topology (GET): a new explicit and inherently smooth framework for manufacture-ready topology
+    optimization'
+  date: 2026-10
+  url: https://arxiv.org/abs/2510.05572
+  category: generative-design
+  subcategory: topology-optimization
+  authors:
+  - Xinyu Ma
+  - Chengxin Wang
+  - Meng Wang
+  abstract: ''
+  venue: Structural and Multidisciplinary Optimization
+- title: Design Optimization and Multiphysics Analysis of Additively Manufactured Rocket Nozzles Using Advanced Computational
+    Engineering
+  date: 2026-10
+  url: https://doi.org/10.20944/preprints202610.2207.v1
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Viraj Gajera
+  abstract: '—Metal additive manufacturing (AM) has become an established route for fabricating regeneratively cooled rocket
+    engine combustion chambers and nozzles, replacing multi-part brazed or machined assemblies with fewer, topologically integrated
+    components. NASA, industry, and university teams have demonstrated laser powder bed fusion (LPBF) and directed energy
+    deposition (DED) nozzle liners in Inconel 625, Inconel 718, GRCop-84, and GRCop-42, several of which have completed hot-fire
+    testing. Despite this progress, the published literature contains a persistent gap: design methodologies for AM nozzles
+    are typically developed and validated for a single physics domain (thermal, structural, or manufacturing-process) in isolation,
+    and closed loop, simulation-driven optimization that couples topology optimization, conjugate heat transfer, structural
+    fatigue, and AM process-induced residual stress within one traceable workflow is rarely reported for a specific nozzle
+    design. This paper reviews the state of the art in AM rocket nozzle design, materials, and cooling architectures, identifies
+    this integration gap, and proposes an original, technically justified multiphysics design and optimization framework intended
+    for future implementation and hot-fire validation. The paper defines the complete computational workflow CAD parameterization,
+    topology optimization, ANSYS Mechanical/Fluent conjugate heat transfer and structural analysis, Impetus AFEA explicit-dynamics
+    thermal shock assessment, and MATLAB-based multi-objective optimization together with the governing equations, mesh and
+    boundary-condition strategy, and a validation plan referenced against published benchmark data.'
+  venue: Preprints.org
+- title: A novel topology optimization framework considering mutiaxis machining constraint
+  date: 2026-10
+  url: https://doi.org/10.1117/12.3133632
+  category: generative-design
+  subcategory: topology-optimization
+  authors:
+  - Bo Yang
+  abstract: To address the neglect of manufacturability in optimization for advanced manufacturing such as multi-axis machining
+    and additive manufacturing, this paper proposes a unique structural topology optimization framework. It employs the three
+    field SIMP method for design variable updates, an improved robust formulation for minimum size control, and level sets
+    for geometrically smooth configurations. A tool accessibility constraint based on the additional volume principle enforces
+    strict multi-axis machining limits, with validation via benchmark examples.
+  venue: ''
+- title: Topology optimization for geometrically nonlinear structures with process-induced anisotropy
+  date: 2026-10
+  url: https://doi.org/10.1007/s00466-026-02865-9
+  category: generative-design
+  subcategory: strength
+  authors:
+  - Chao Wang
+  - Huijuan Sun
+  - Wenfeng Du
+  abstract: ''
+  venue: Computational Mechanics
+- title: 'Additive Manufacturing of Lightweight Space Mirrors: A Review of Structural Design, Optical Fabrication, and Performance'
+  date: 2026-10
+  url: https://doi.org/10.3390/s26216698
+  category: generative-design
+  subcategory: post-processing
+  authors:
+  - Donghui Yu
+  - Zongxuan Li
+  - Jiuxin Ning
+  abstract: 'As space remote sensing technology continuously evolves toward large apertures and high resolutions, optical
+    systems impose increasingly stringent requirements on the mass, specific stiffness, and surface figure stability of mirrors.
+    Leveraging unparalleled design freedom, additive manufacturing (AM) technology enables the physical fabrication of complex
+    architectures—such as topology optimization (TO), lattices, and Voronoi structures—thereby breaking through the limitations
+    of traditional lightweight mirror designs. This review first introduces the relevant manufacturing technologies for AM
+    space mirrors and analyzes the characteristics of metallic and ceramic materials suitable for AM, with a particular focus
+    on the advantages and limitations of the two most widely applied core materials: AlSi10Mg and silicon carbide (SiC). Subsequently,
+    it reviews the state of the art in AM space mirrors, organized according to their structural typologies. Furthermore,
+    it delves into the critical post-processing technologies required to achieve high-precision surface figures and summarizes
+    the prevailing challenges confronting AM mirrors. Finally, it outlines future research directions for AM mirrors.'
+  venue: Sensors
+- title: Stiffness Response of Topology-Optimized FDM Carbon-Fiber-Reinforced PLA Structures
+  date: 2026-10
+  url: https://doi.org/10.3390/app162010372
+  category: generative-design
+  subcategory: fdm-process
+  authors:
+  - Jerik Straetker
+  - Amir Armani
+  - Eduardo Chan
+  abstract: Additive manufacturing enables the fabrication of lightweight composite structures with complex geometries; however,
+    accurately predicting their structural response remains challenging when topology optimization introduces multiple thin
+    load-bearing members and complex deposition paths. This study evaluated the end-to-end accuracy of a simplified engineering
+    workflow that combines coupon-derived anisotropic material properties, isotropic topology generation, laminate shell analysis,
+    geometry reconstruction, FDM fabrication, and component testing for short-carbon-fiber-reinforced PLA structures. In-plane
+    elastic properties were characterized using ASTM D3039 tensile and ASTM D3518 shear tests and implemented in ANSYS Mechanical
+    and ACP (Pre). Baseline and topology-derived brackets with different retained-mass targets were manufactured and tested
+    under tensile loading. Experimental stiffness was determined using linear regression over the 25–60% range of each specimen’s
+    maximum load, which provided highly linear fits across all specimens. The simulations systematically overpredicted experimental
+    stiffness, with errors of approximately 14–52% for the baseline and minimum-compliance configurations. Mesh refinement
+    and variations in the assumed out-of-plane elastic properties produced changes substantially smaller than the largest
+    simulation–experiment discrepancies. The results therefore quantify the limitations of transferring coupon-calibrated
+    homogeneous properties through a simplified topology-optimization and FDM workflow and show that the observed disagreement
+    cannot be attributed to mesh density or the investigated out-of-plane material assumptions alone. The workflow is best
+    interpreted as a preliminary engineering assessment rather than as validation of a high-fidelity constitutive or component
+    model.
+  venue: Applied Sciences
+- title: Numerical investigation of energy absorption behaviour of additively manufactured functionally graded lattice structures
+    for automotive crash box applications
+  date: 2026-10
+  url: https://doi.org/10.1038/s41598-026-76131-6
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - P. Raja
+  - R. Sembian Selvan
+  - S. L. Sarvesh
+  abstract: In the quest to improve crash safety in automotive structures, lightweight energy absorbing lattice architectures
+    have gained considerable attention. This study presents a combined numerical and experimental investigation of additively
+    manufactured uniform and functionally graded (FG) lattice structures for automotive crash-box applications. Four lattice
+    topologies Body-Centered Cubic (BCC), Body-Centered Cubic with vertical stiffeners (BCCz), Octet Truss, and Re-entrant
+    Auxetic are evaluated under quasi-static and dynamic loading conditions. The novelty lies in the comparative analysis
+    of multiple lattice topologies and the development of functionally graded Re-entrant auxetic lattices under identical
+    loading conditions. Parametric models with varying unit cell size, strut thickness, and re-entrant angle are developed
+    and analysed using finite element simulations. Among all configurations, the Re-entrant Auxetic lattice shows superior
+    deformation stability and specific energy absorption behaviour. Uniform lattices with different packing factors and FG
+    lattices with layer-wise density variation are further investigated under quasi-static compression and impact loading.
+    The functionally graded re-entrant auxetic lattice exhibited approximately 17.9% higher specific energy absorption (SEA)
+    than the corresponding uniform lattice, indicating improved crashworthiness performance. Finally, the optimized FG lattice
+    is integrated into a crash box, which absorbs more energy (72,343 J vs. 69,654 J) and has a higher specific energy absorption
+    (38.54 vs. 37.39 kJ/kg) than the uniform-lattice crash box, with a smoother force response, although at the cost of a
+    higher peak crushing force and a lower crash force efficiency (0.61 vs. 0.72). These results indicate the potential of
+    FG lattices for lightweight automotive crashworthiness applications.
+  venue: Scientific Reports
+- title: Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space
+    refinement
+  date: 2026-10
+  url: https://arxiv.org/abs/2610.25565
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Reza T. Batley
+  - Sourav Saha
+  abstract: Bone scaffolds must reconcile a macroscale mechanical response with microscale geometric feasibility, yet conventional
+    approaches to their design restrict attainable constitutive properties. This work presents a concurrent two-scale topology
+    optimization framework; a conditional rectified flow generates periodic lattice microstructures, which are then refined
+    in latent space by exact finite-element homogenization sensitivities. The resulting unit-cell geometries and their spatial
+    assignments are jointly optimized under mechanical and feature-size constraints. In a distal rabbit femur benchmark, all
+    eight flow-started refinements produce printable cells with maximum relative errors under 1\% across six prescribed engineering
+    moduli. Constructing the implant from a single tiled cell reproduces intact whole-femur compliance within 0.1\% and regional
+    strain energy within 0.35\% under four loading conditions. In human femoral reconstruction, multiscale concurrent optimization
+    produces a cortical mid-shaft scaffold with porosity 63\% while satisfying the compliance constraint within 2\% under
+    walking and stair-climbing loads. It achieves an 84\% porosity on a proximal cancellous scaffold with strain-energy deviations
+    below 0.25\% under the same loads. Analysis of the learned representations reveals distinct architectural families in
+    latent space. Further, the attention heads of the rectified-flow transformer specialize for spatial shifts -- learning
+    the analogue of a finite-difference stencil -- and coordinate symmetries, with ablations showing their influence on generated
+    topologies. These results establish a route to printable, mechanically constrained scaffold designs. The framework is
+    general enough for extending to many other multiscale structural design applications including topology-microstructure
+    co-design in metal additive manufacturing.
+  venue: arXiv (Cornell University)
+- title: 'Stochastic spider webs: Bio-inspired metamaterials design and structural optimization'
+  date: 2026-10
+  url: https://doi.org/10.1088/1361-665x/aeb83d
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Mohamed Elleithy
+  - Pınar Acar
+  abstract: 'Abstract Bio-inspired structural architectures can extend the performance envelope of conventional lightweight
+    designs when their topology is explicitly tailored to loading conditions, boundary constraints, and structural objectives.
+    This work introduces stochastic spider webs, a parametric class of radial/spiral metamaterial plates in which controlled
+    geometric perturbations break strict periodicity, enabling non-periodic topologies that expand the achievable design space
+    beyond classical lattice architectures. A novel algorithm governs member count, thickness distribution, spiral spacing,
+    and stiffness distribution through physically interpretable variables, with a randomness parameter that transitions between
+    periodic and stochastic designs. These architectures are compared against honeycomb metamaterial plates, an established
+    periodic benchmark in structural design, and both are optimized via Bayesian search over mixed discrete-continuous design
+    spaces with respect to three objectives: minimization of maximum von Mises stress, total elastic strain energy density,
+    and maximum elastic strain energy density. Results demonstrate that structural efficiency is governed by the interaction
+    between the optimization objectives, boundary conditions, and load distributions. Under simply supported uniform loading,
+    stochastic spider webs outperform honeycombs by 28-54% in stress and strain energy metrics depending on the performance
+    objective. Moreover, under clamped conditions, spider webs reduce total elastic strain energy by up to 73%. Honeycombs
+    retain advantages where suppression of localized curvature peaks is critical. The design framework is experimentally validated
+    via uniaxial compression and three-point bending testing of additively manufactured specimens of both architectures, with
+    the flexural tests confirming the topological advantage of the spider web architecture in the bending dominated regime.'
+  venue: Smart Materials and Structures
+- title: 3D printed polymer composite for soft robotics
+  date: 2026-10
+  url: https://doi.org/10.1016/b978-0-443-40547-1.00003-7
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Hande Savran
+  - Levent Aydın
+  abstract: ''
+  venue: Elsevier eBooks
+- title: Design for Additive Manufacturing using customized Lattice Structures
+  date: 2026-10
+  url: https://doi.org/10.34726/hss.2026.96784
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Sebastian Geyer
+  abstract: Die additive Fertigung (AM) hat die Konstruktions- und Produktionsprozesse in zahlreichen Branchen revolutioniert
+    und ein bisher unerreichtes Maß an Gestaltungsfreiheit in Form und Funktion ermöglicht. Die Ausschöpfung dieses Potenzials
+    hängt jedoch entscheidend von der Fähigkeit ab, komplexe Geometrien wie zelluläre und Gitterstrukturen zu generieren und
+    zu bearbeiten. Diese Strukturen ermöglichen Leichtbau, Materialeinsparungen und die gezielte Optimierung der mechanischen,
+    thermischen und akustischen Eigenschaften. Dennoch stellt die Konstruktion und Umsetzung von Bauteilen, die auf Gitterstrukturen
+    basieren, nach wie vor eine erhebliche rechnerische und methodische Herausforderung dar. Die vorliegende Monografie fasst
+    die Ergebnisse von drei veröffentlichten Forschungsstudien sowie weiterer Forschungen zum Thema "Design for Additive Manufacturing"
+    (DfAM) zusammen und erweitert sie. Der Schwerpunkt liegt auf der vergleichenden Bewertung von CAD-Softwaretools zur Erzeugung
+    von Gitterstrukturen. Es werden maßgeschneiderte Algorithmen zur halb-automatischen Erstellung sowohl von gradientenbasierten
+    und konformen, auf Streben aufbauenden als auch von konstanten, oberflächenbasierten, nicht-konformen Gittern unter Verwendung
+    von Rhino 8 und Grasshopper® entwickelt. Außerdem wird die praktische Umsetzung maßgeschneiderter, Voronoi-basierter Gitterstrukturen
+    im Kontext personalisierter Fahrradsattel-Auflagen erörtert. Der erste Teil der Monografie untersucht den aktuellen Stand
+    der CAD-Software und bewertet die Leistung, Benutzerfreundlichkeit und Funktionalität wichtiger Systeme wie nTopology,
+    Rhino/Grasshopper®, Altair Inspire und Carbon Design Engine Pro. Ziel ist es, die am besten geeigneten Werkzeuge für anspruchsvolle
+    Anwendungen im Bereich des Gitterdesigns zu ermitteln. Im zweiten Teil wird ein neuartiger algorithmischer Rahmen für
+    die parametrische Generierung von Gitterstrukturen vorgestellt. Dieser Rahmen wurde in Grasshopper® implementiert und
+    durch mechanische Validierung überprüft. Im dritten Teil wird die Anwendung dieser Methoden bei der Entwicklung und Herstellung
+    maßgeschneiderter Fahrradsattel-Auflagen demonstriert. Diese wurden mittels AM unter Verwendung von selektivem Lasersintern
+    (SLS) mit thermoplastischem Polyurethan (TPU) sowie Hot Lithography mit dem flexiblen Photopolymerharz Evolution FL entworfen
+    und gefertigt. Die vorliegende Monografie bietet einen umfassenden Überblick über aktuelle Methoden zur Konstruktion und
+    Umsetzung von Gitterstrukturen für die additive Fertigung. Dies geschieht durch die Integration von Benchmarking, Algorithmenentwicklung
+    und anwendungsorientiertem Design. Die vorgestellten Ergebnisse verdeutlichen das Zusammenspiel zwischen computergestützten
+    Konstruktionsumgebungen, algorithmischer Steuerung und prozessspezifischem Materialverhalten. Diese Erkenntnisse tragen
+    zu einem tieferen Verständnis von DfAM-Strategien bei und veranschaulichen einen schlüssigen Weg vom digitalen Entwurf
+    bis zur Realisierung funktionsfähiger Produkte.
+  venue: reposiTUm (TU Wien)
+- title: 'Additive manufacturing of superalloy lattice structures: Towards integrated mechanical and thermal protection performance'
+  date: 2026-10
+  url: https://doi.org/10.1016/j.tws.2026.115866
+  category: generative-design
+  subcategory: lattice-design
+  authors:
+  - Qiao Zhong
+  - Kaiwen Wei
+  - Runsheng Li
+  abstract: ''
+  venue: Thin-Walled Structures
+- title: 'Material- and geometry-driven thermal behavior of additively manufactured lattice structures: A comparative study
+    of Invar 36 and Inconel 718'
+  date: 2026-10
+  url: https://doi.org/10.1016/j.jestch.2026.102573
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Maialen Martinez de Aguirre
+  - Gaizka Gómez Escudero
+  - Haizea González
+  abstract: 'Dimensional stability under thermal stress is a critical requirement for high-value components used in aerospace,
+    metrology and high-precision systems, where small thermally induced distortions seriously compromise performance. This
+    work analyzes the thermal expansion behavior of additively manufactured lattice structures produced by Powder Bed Fusion–Laser
+    Beam (PBF-LB), considering two materials with contrasting thermal responses: Invar 36 and Inconel 718. While Invar 36
+    is widely recognized for its near-zero coefficient of thermal expansion (CTE), Inconel 718 exhibits a conventional thermoelastic
+    behavior, enabling a systematic comparison between material-driven and geometry-driven effects. A total of 32 specimens
+    were designed, combining solid and lattice configurations with linear and rounded architectures, different numbers of
+    solid external walls, and both as-built and machined conditions. Thermal expansion was experimentally characterized over
+    the temperature range from − 170 °C to 400 °C, while the CTE was evaluated over selected temperature intervals to provide
+    a robust comparison between materials and lattice configurations. The results show that the global thermal response is
+    primarily governed by the material selection, with Invar 36 exhibiting a strongly temperature-dependent behavior associated
+    with the progressive disappearance of the Invar effect, whereas Inconel 718 displays a stable and nearly linear response.
+    An idealized finite element model (FEM) showed that the nominal lattice geometry alone does not modify global elongation,
+    whereas the experimental specimens exhibited small configuration-dependent deviations. For the investigated strut-based
+    lattices, lattice architecture and wall number had a secondary influence, whereas machining systematically reduced the
+    thermal strain of Invar 36 lattices but not of Inconel 718. These findings indicate that such lattice structures can be
+    implemented without significantly compromising dimensional stability, particularly when the material response is properly
+    considered.'
+  venue: Engineering Science and Technology an International Journal
+- title: Geometry-Dependent Terahertz Dielectric Properties of Additively Manufactured Zirconia Lattices for Terahertz Applications
+  date: 2026-10
+  url: https://doi.org/10.1016/j.ceramint.2026.10.339
+  category: generative-design
+  subcategory: lattice-design
+  authors:
+  - Kağan Murat Pürlü
+  - Elif Işık
+  - Ali Suat Yıldız
+  abstract: ''
+  venue: Ceramics International
+- title: Additive manufacturing of ultralong and architected single crystals
+  date: 2026-10
+  url: https://doi.org/10.1038/s41586-026-11185-0
+  category: generative-design
+  subcategory: fdm-process
+  authors:
+  - Changmeng Liu
+  - Yinan Cui
+  - Jiachen Wang
+  abstract: ''
+  venue: Nature
+- title: Numerical Design of Compliant Lattice Structures
+  date: 2026-09
+  url: https://doi.org/10.34726/hss.2026.125524
+  category: generative-design
+  subcategory: composites
+  authors:
+  - Adriana Mistelbauer
+  abstract: The ultimate goal of engineering is to propose technological solutions that are as effective and efficient as
+    possible. Popular approaches are Computer Aided Design (CAD), i.e., virtual design of products, and Computer Aided Engineering
+    (CAE), i.e., virtual analysis of products. Within CAD, parameterized designs can be obtained based on splines – which
+    also serve as a basis for isogeometric analysis, thereby not only enabling the seamless integration of CAD and CAE but
+    even the adjoint-based numerical optimization of the proposed technological solutions.The performance of engineered solutions
+    can often also be improved by incorporating lattice structures. One example from the field of structural mechanics are
+    compliant lattices that result in desired mechanical properties of the overall structure. While complex lattice structures
+    cannot be easily realized by conventional manufacturing processes, they are much more readily available since the advent
+    of additive manufacturing. Furthermore, computational geometries of complex lattice structures can be generated by tiling,
+    during which a desired shape is filled with varying instances of parameterized tiles.The integration of adjoint-based
+    numerical optimization and compliant lattice structures is facilitated by utilizing a parameter spline. On the one hand,
+    the parameter spline controls the resulting lattice structure; for example, when it represents a spatially-dependent thickness
+    parameter used for tiling. On the other hand, the parameter spline also controls the size of the optimization problem
+    when choosing its control variables as the optimization variables; for example, when they represent the thickness of a
+    lattice which is to be optimized.The aim of this work is to advance the numerical design of compliant lattice structures.
+    An existing framework is extended to also allow for more complex, multi-patch structural designs. Furthermore, the structural
+    analysis is enhanced by adding the output of mechanical stresses. These additions enable the optimization of a complex
+    structural design with respect to an appropriate objective.
+  venue: reposiTUm (TU Wien)
+- title: A Comparative Study of Microstructure Evolution and Mechanical Performance in High‐Strength Low‐Alloy Steel Fabricated
+    via Laser‐Based Wire Additive Manufacturing and Arc‐Based Wire Additive Manufacturing
+  date: 2026-10
+  url: https://doi.org/10.1002/srin.70710
+  category: generative-design
+  subcategory: strength
+  authors:
+  - Yansong Huang
+  - Wei Zhang
+  - Tinghua Qu
+  abstract: Understanding how heat‐source characteristics control microstructure and properties is essential for selecting
+    wire‐fed additive manufacturing routes for high‐strength low‐alloy steels. Here, ER120S‐G steel walls were fabricated
+    by cold metal transfer wire arc additive manufacturing (WAAM–CMT) and wire laser additive manufacturing (WLAM), and their
+    phase constitution, grain structure, texture, local misorientation, and tensile properties were compared. WAAM‐CMT produced
+    bainitic ferrite and granular bainite because of its higher heat input and slower cooling rate. By contrast, WLAM generated
+    refined tempered martensite with weaker texture, a higher fraction of low‐angle grain boundaries, and stronger local lattice
+    distortion. Consequently, WLAM achieved a yield strength of 759.6 MPa and an ultimate tensile strength of 1114.3 MPa,
+    markedly higher than those of WAAM‐CMT, 544.8 and 665.1 MPa, while maintaining a comparable uniform elongation of 23.3%.
+    The enhanced strength–ductility balance of WLAM is attributed to martensitic transformation, grain refinement, and defect‐assisted
+    strengthening. This study establishes a direct process–microstructure–property correlation between WAAM–CMT and WLAM,
+    providing guidance for manufacturing high‐strength steel components by wire‐fed additive manufacturing.
+  venue: steel research international
+- title: Statistical characterization of mechanical responses of AM lattice structures considering distributed geometric defects
+  date: 2026-10
+  url: https://doi.org/10.1016/j.ijsolstr.2026.114419
+  category: generative-design
+  subcategory: defects
+  authors:
+  - Qichao Niu
+  - Weizhu Yang
+  - Haowei Yang
+  abstract: ''
+  venue: International Journal of Solids and Structures
+- title: A prediction method for compressive strength of biomimetic lattice structures based on stacked ensemble learning
+  date: 2026-10
+  url: https://doi.org/10.1088/1742-6596/3336/1/012053
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Le Han
+  - Yuxin Zhang
+  - Yiqiang Mu
+  abstract: Abstract With the advancement of metal additive manufacturing technology, bionic lattice structures with high
+    specific strength and excellent energy absorption characteristics have been realized, which have broad application prospects
+    in aerospace and biomedical fields. However, the complex nonlinear mapping relationship between geometric parameters and
+    mechanical properties poses significant challenges to traditional empirical formulas and high-fidelity finite element
+    analysis. To address the challenge of predicting the compressive strength of bionic structures under small sample conditions,
+    this study proposes a stacked ensemble learning framework. Based on 81 sets of full-factor simulation data, this framework
+    integrates ridge regression, random forest, and XGBoost as base learners and achieves the optimal fusion of prediction
+    results through a meta learner. Further, the SHAP analysis quantitatively decouples the independent influence mechanisms
+    of each design variable. The framework proposed in this paper provides a high precision and interpretable surrogate model
+    for the mechanical property prediction of bionic lattice structures, which can effectively support subsequent structural
+    optimization design.
+  venue: Journal of Physics Conference Series
+- title: Effect of heat treatments and polishing time on the compressive response of WE43 lattice structures for biomedical
+    and structural applications
+  date: 2026-10
+  url: https://doi.org/10.1016/j.jmrt.2026.10.170
+  category: generative-design
+  subcategory: post-processing
+  authors:
+  - J. de la Pezuela
+  - J.M. García-Zapata
+  - P. Plaza
+  abstract: This study investigates the coupled influence of heat treatment and chemical polishing on the compressive response
+    of WE43 magnesium alloy lattice structures fabricated by laser powder bed fusion. Diamond-type lattices were subjected
+    to four thermal conditions, namely as-built, T5, solution-treated and T6, and subsequently chemically polished in 85 wt.%
+    H 3 PO 4 for immersion times up to 900 s. The results show that chemical polishing acts as a coupled surface–geometry
+    modification process. Moderate immersion times effectively removed partially sintered particles and surface asperities,
+    whereas prolonged exposure promoted significant strut thinning, reducing the effective load-bearing section. Heat treatment
+    mainly controlled the deformation capability of the strut material. Solution treatment markedly increased strain-to-failure
+    by promoting microstructural homogenisation, while T5 retained relatively high effective strength but limited ductility.
+    The T6 condition produced a more homogeneous equiaxed microstructure and a more stable deformation response, although
+    its strengthening effect was partially counterbalanced by the reduction in ductility associated with ageing. Across the
+    investigated conditions, polishing times of 360–600 s provided the best compromise between surface refinement and preservation
+    of structural integrity. These findings demonstrate that the compressive performance of LPBF-fabricated WE43 lattices
+    is governed by the combined effect of heat treatment and chemical polishing, as these post-processing treatments simultaneously
+    modify the microstructure, surface quality, relative density, and effective lattice geometry. The proposed interpretation
+    provides practical guidance for defining post-processing windows in additively manufactured magnesium lattices for lightweight
+    structural components and biodegradable scaffold concepts.
+  venue: Journal of Materials Research and Technology
+- title: 'Experimental Investigation of Constituent Materials for Multilayered Impact Resistant Panels: Fiber-Reinforced Ceramic,
+    Shape Memory Alloy, and Titanium Alloy Lattice Structures'
+  date: 2026-10
+  url: https://doi.org/10.22581/0789
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Muhammad Abid
+  - Haris Khalid
+  - Hafiz Abdul Wajid
+  abstract: 'This experimental study investigates the mechanical performance and energy absorption characteristics of materials
+    for a newly developed multilayered impact-resistant panel. The proposed lightweight structure combines fiber-reinforced
+    ceramic (FRC), nickel-titanium shape memory alloy (SMA), and additively manufactured Ti-6Al-4V lattice structures in uniform
+    body-centered cubic (UBCC) and vertical-strut (UBCCz) configurations. Each material was fabricated, heat-treated under
+    controlled conditions, and mechanically tested to assess its suitability for impact-resistant applications. The FRC panels
+    exhibited a compressive strength of 50 MPa and a fracture toughness of 2.8 MPa·m¹ᐟ², supporting their use as a strike-face
+    layer. Heat treatment of the SMA at 700 °C for 30 minutes increased energy absorption by 21% and failure strain by 40%,
+    while reducing tensile strength. For both UBCC and UBCCz Ti-6Al-4V lattice structures, non-heat-treated samples demonstrated
+    superior compressive properties compared with heat-treated samples. Increasing the UBCCz strut diameter from 1 mm to 2
+    mm substantially improved compressive strength and energy absorption. The experimental results for the multilayered panel
+    were in good agreement with numerical simulation results reported in the literature. At an impact velocity of 100 m/s,
+    the panel distributed the impact energy across its layers: 21% was absorbed by the FRC, 28% by the SMA, and 50% by the
+    titanium lattice, while the aluminum backing contributed minimally. Multilayered impact-resistant panels with the same
+    sequence of material layers were physically fabricated. Further impact testing is recommended to evaluate the panels’
+    damage and energy absorption behavior.'
+  venue: Mehran University Research Journal of Engineering and Technology
+- title: 'Enhancing the compressive properties of L-PBF 316L diamond lattice structures via low-temperature gaseous carburizing:
+    The role of relative density and cell size'
+  date: 2026-10
+  url: https://doi.org/10.1016/j.tws.2026.115870
+  category: generative-design
+  subcategory: lattice-design
+  authors:
+  - Jian Bai
+  - Zhen Li
+  - Qian Zhang
+  abstract: ''
+  venue: Thin-Walled Structures
+- title: Evaluating frame and plate cellular lattice for sandwich core design and material replacement using a digital twin
+    framework
+  date: 2026-10
+  url: https://doi.org/10.1016/j.jcomc.2026.100838
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Rishika Jain
+  - Sameer Abass
+  - Yao Ren
+  abstract: Additively produced lattice cores create new possibilities for designing lightweight sandwich composites with
+    customized stiffness, strength, and multifunctional capabilities. Nevertheless, scaling lattice structures while maintaining
+    mechanical performance remains challenging because of stress concentrations at nodes, strut buckling, skin-core interactions,
+    and the need to validate new designs and alternative materials amid supply-chain limitations. In this work, we assess
+    the effectiveness of using a homogenized representative volume element model (H-RVE) developed for frame-wall hybrid unit
+    cells in compression for a beam in bending. We also assess a digital twin approach for experimental-virtual data validation
+    to replace materials. We compare its effectiveness with a full solid finite element model (S-FE) and a beam-shell element
+    model (BSE). The results show that the BSE provides the best computational efficiency with high accuracy. The proposed
+    framework provides a practical pathway for scalable design, rapid validation, and supply-chain-resilient material substitution
+    in additively manufactured lattice-core sandwich composites.
+  venue: Composites Part C Open Access
+- title: Thermo–hydraulic performance of hybrid lattice-based heat exchangers for supercritical CO2 waste heat recovery cycles
+  date: 2026-10
+  url: https://doi.org/10.1016/j.icheatmasstransfer.2026.112842
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Majid Asli
+  - Akilan Mathiazhagan
+  - Rahin Gray Raju
+  abstract: 'Advances in additive manufacturing have enabled the development of complex heat exchangers with strong potential
+    for supercritical CO 2 (S-CO 2 ) power cycles and waste heat recovery applications. This study investigates novel hybrid
+    TPMS-based heat exchangers by combining two base topologies, Schwarz-Primitive and Gyroid, with Diamond, Octet, and Body-Centered
+    Cubic lattice structures. Two integration strategies are considered to introduce an innovative class of interpenetrating
+    architectures: full integration across the heat exchanger domain, and partial integration selectively confined to a single
+    fluid domain. Three-dimensional conjugate heat transfer analyses are conducted for 48 configurations with different volume-fraction
+    combinations. The baseline-geometry results were compared with experimentally-validated reference data to assess the accuracy
+    of the numerical model. The results for the hybrid configurations are compared against their pure TPMS counterparts to
+    evaluate the effects of lattice hybridization on heat transfer, pressure loss, and overall thermo–hydraulic performance.
+    The results indicate that, for the investigated designs, partial integration reduces the frictional penalty in the unobstructed
+    fluid domain compared with full integration. In the partial-integration configurations, the secondary lattice is placed
+    in the S-CO 2 domain for the Schwarz-Primitive base and in the cooling-water domain for the Gyroid base, leaving the opposing
+    fluid domain unobstructed. Among the investigated designs, the partially integrated Schwarz-Primitive-Diamond configuration
+    achieved the highest overall thermo–hydraulic performance, with a performance evaluation criterion of 4.52, corresponding
+    to a 3.5-times improvement relative to a smooth-tube reference. Overall, the findings demonstrate that hybrid TPMS-lattice
+    architectures provide a flexible design strategy for tailoring S-CO 2 pre-coolers toward maximum thermo–hydraulic efficiency.'
+  venue: International Communications in Heat and Mass Transfer
+- title: Laser powder bed fusion of NiTi pentamode metamaterials with superior shape-recovery properties
+  date: 2026-10
+  url: https://doi.org/10.1016/j.amf.2026.200421
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Shiqing Wang
+  - Jun Xiao
+  - Bingjin Wang
+  abstract: Metallic metamaterials fabricated via additive manufacturing offer unprecedented opportunities for tailoring their
+    mechanical properties. However, most existing designs function as passive load-bearing structures and suffer from irrecoverable
+    plastic deformation, severely limiting their reusability and functional adaptability. By leveraging the reversible martensitic
+    transformation of NiTi shape memory alloys combined with the unique mechanical properties of pentamode metamaterials (PMs),
+    this study proposes NiTi strut-based diamond-type PMs with superior shape-recovery properties. In this study, PMs featuring
+    uniform lattice structures (ULSs) and dual-graded lattice structures (DLSs) are designed and fabricated using laser powder
+    bed fusion (LPBF), and their manufacturability, mechanical properties, and shape-recovery behaviors are systematically
+    evaluated. The DLSs achieve exceptional shape-recovery properties with a recoverable strain ( ε rec ) exceeding 3.4% after
+    10 compression cycles and a shape-recovery ratio ( η SR ) surpassing 99% upon heating, markedly outperforming their uniform
+    counterparts that exhibit a maximum ε rec of 2.24% and a maximum η SR of 97.33%. These findings demonstrate that integrating
+    an advanced structural design with the thermomechanical functionality of NiTi alloys provides a versatile platform for
+    high-performance, recoverable metamaterials suitable for biomedical implants and reusable energy-absorbing applications.
+  venue: Additive Manufacturing Frontiers
+- title: Effect of Annealing Heat Treatment on Microstructure and Mechanical Properties of Ti-6242 Alloy Fabricated by Laser
+    Powder Bed Fusion Method
+  date: 2026-10
+  url: https://doi.org/10.47176/jame.46.1.1147
+  category: generative-design
+  subcategory: post-processing
+  authors:
+  - Amir Hossein Emami Ghalehghasemi
+  - Abolfazl Azadi
+  - Behzad Niroumand
+  abstract: 'Introduction and Objectives: Ti-6242 alloy is highly regarded in additive manufacturing due to its excellent
+    thermal resistance. Titanium laser-based additively manufactured components, however, often require post-heat treatments
+    because of their high solidification rate and formation of undesirable phases. The aim of this study is to investigate
+    the effects of annealing heat treatment on the microstructure and mechanical properties of Ti-6242 specimens fabricated
+    by laser powder bed fusion method. Materials and Methods: Annealing heat treatments were conducted at three temperatures
+    of 950, 1005, and 1050 ℃ for holding times of 1, 3, 5, and 7 hours. The resulting microstructure, phase composition, and
+    mechanical properties were characterized using optical and scanning electron microscopy, X-ray diffraction, and shear
+    punch testing. Results: The as-built microstructure consisted of columnar primary β grains with colonies of metastable
+    martensitic α′. Heat treatment led to decomposition of α′ and formation of more stable α and β phases. At 1005 and 1050
+    °C, the microstructure transformed from columnar to equiaxed, whereas at 950 °C, the columnar structure was retained.
+    Williamson–Hall plots obtained from XRD patterns revealed a reduction in the lattice microstrain of heat treated samples
+    compared with the as-built one. The applied heat treatment, improved both ultimate shear strength and ductility of the
+    samples. The highest ultimate shear strength (761 MPa) and normalized displacement (0.638) were achieved at 1005 °C. Conclusion:
+    Appropriate heat treatment leads to a more stable microstructure, reduction in lattice microstrain, and transformation
+    of the columnar structure to an equiaxed one. This process could simultaneously enhance the ultimate shear strength and
+    ductility compared to the as-built sample.'
+  venue: نشریه علمی پژوهشی مواد پیشرفته در مهندسی
+- title: 'Προσθετική κατασκευή ελαφρών μεταϋλικών δοκών : σχεδιασμός, πειραματική και αριθμητική ανάλυση'
+  date: 2026-10
+  url: https://hdl.handle.net/10889/33244
+  category: generative-design
+  subcategory: fdm-process
+  authors:
+  - Ειρήνη-Ζωή Καλαμαρά
+  abstract: The recent development of additive manufacturing (AM) technology has enabled the design and fabrication of a new
+    class of materials with unique properties, known as metamaterials. Metamaterials derive their special properties from
+    their cellular architecture. Among the most promising applications of metamaterials is the development of lightweight
+    structural metamaterial lattices, capable of exhibiting high strength, stiffness and energy absorption, at extremely low
+    densities, performance that no other conventional composite can achieve. Plate-based lattices and honeycomb structures
+    are the most promising lightweight architectures due to their high strengthto weight ratio and energy absorbing capacity.
+    By fabricating these sutures with composite materials their abilities can be further enhanced by creating multifunctional
+    metamaterial structures with self-sensing capabilities. This thesis investigates the mechanical performance of three metamaterial
+    beams, one with face-centered cubic and two honeycomb lattice architecture, fabricated by Fused Deposition Modeling (FDM)
+    using polylactic acid reinforced with carbon nanotubes. The beams were tested under 3-point bending, and their mechanical
+    response was recorded simultaneously with their piezoresistive response. A finite element analysis was performed, and
+    the numerical results were compared with the experimental data. The experimental results showed that the honeycomb structures
+    exhibited higher loadbearing capacity and apparent strength. All specimens failed suddenly, consistent with the brittle
+    behavior of the PLA-dopped CNTs material. The piezoresistive response depended on deformation mechanism. The bending-dominated
+    FCC beam showed an insignificant response in the elastic region, while the stretching-dominated honeycombs showed a significant
+    decrease. A sudden step in the resistance of one honeycomb beam detected a localized damage, indicating that the structures
+    are capable of self-sensing their damage state. The finite element analysis was reliable for the elastic response of the
+    beams.
+  venue: Νημερτής
+- title: Functioneel gegradeerde metalen roosterstructuren vervaardigd door laserpoederbedfusie
+  date: 2026-10
+  url: https://lirias.kuleuven.be/handle/20.500.12942/796094
+  category: generative-design
+  subcategory: polymer-materials
+  authors:
+  - Berk Baris Celik
+  abstract: Laser Powder Bed Fusion (LPBF) has emerged as a highly capable additive manufacturing technology for fabricating
+    complex metallic components layer by layer. This level of design freedom is exactly what makes porous lattice structures
+    so appealing for reducing the weight of engineering parts. However, printing features at the sub-millimetre scale presents
+    inherent challenges. The process naturally leaves behind rough surfaces and micro-scale internal voids, which ultimately
+    compromise the mechanical properties of the final product. On top of that, standard lattice structures have the same amount
+    of material at every point. Real-world components rarely experience uniform loads, meaning a lot of material is wasted
+    where it is not needed. To address these challenges, this dissertation explores ways to characterise and enhance uniform
+    metal lattice structures. Then it introduces functionally graded architectures designed using simulated displacement fields
+    and topological interlocking principles. The first part of this work examines the dynamic and cyclic behaviour of homogeneous
+    lattices. Since it is practically impossible to avoid all internal defects during LPBF printing, reliable methods are
+    required to locate them without damaging the part. The study establishes a non-destructive test method based on the impulse
+    excitation technique. By looking at shifts in the resonant frequency, hidden lack-of-fusion porosities can be successfully
+    detected in both solid shapes and lattices, offering a much faster inspection route than micro-computed tomography. This
+    same resonance approach was also used to evaluate metal-polymer composites, showing exactly how injecting an epoxy phase
+    improves the network's stiffness and its ability to damp vibrations. Fatigue failure is arguably the primary obstacle
+    for load-bearing lattices, so the research focused on three different ways to improve their lifespan without adding any
+    extra parent material mass. Changing how the unit cells are stacked alters the connections at the nodes. This simple shift
+    creates stiffer local areas inside the lattice that physically block cracks from growing and increase the overall strength.
+    A different approach targets the rough as-built surface. Subjecting the lattices to an electrochemical treatment strips
+    away the adhered powder and dross. Getting rid of these surface defects takes away the stress concentration points where
+    cracks normally start, extending the fatigue life. As a last method, filling the voids of the lattice with a polymer takes
+    some of the cyclic stress off the metallic struts themselves. The polymer absorbs the vibration energy, which keeps the
+    whole structure intact for much longer. The second half of the dissertation moves away from uniform designs and looks
+    at functionally graded lattices, placing material only where it is needed. A new field-driven grading method is proposed
+    here. Instead of arbitrary density changes, local strut thicknesses are informed directly by displacement fields taken
+    from modal finite element simulations. The mass is concentrated in the specific zones that govern targeted vibration modes.
+    As a result, the natural frequency of the lattices rose by up to 31% and their loss factor by up to 76%, while the total
+    weight remained unchanged. The damping gain is resolved with less certainty than the frequency gain. A related but distinct
+    field-driven approach was then applied to a functional aerospace component. The supporting lattice of a lightweight satellite
+    mirror was graded using a structural displacement field to ensure the mirror face deflected evenly during post-process
+    machining. The last section brings the functional grading idea to topologically interlocking assemblies, specifically
+    316L stainless steel chainmail designed for enhanced stab protection. Printing flexible metal meshes is notoriously difficult
+    due to heat build-up and build plate removal issues. By developing a custom breakaway support structure and a folded printing
+    strategy, the need for an expensive wire electrical discharge machining process and limited build plate area were completely
+    bypassed. This folded nesting strategy successfully allowed the chainmail layers to be stacked during manufacturing to
+    overcome build area limitations. The chainmail itself was designed with regional density gradients. The centre of the
+    mesh is dense to maximise protection right at the impact zone, while the outer edges remain loose and flexible for mobility.
+    Standardised stab tests proved that these 3D-printed, functionally graded interlocking structures offer a normalised protective
+    capacity that easily competes with traditional commercial wire chainmail.
+  venue: Lirias
+- title: Investigation of the surface oxidation behavior of iron-based alloys using recoilless nuclear gamma resonance
+  date: 2026-10
+  url: https://doi.org/10.5281/zenodo.23526779
+  category: generative-design
+  subcategory: post-processing
+  authors:
+  - Tatiana Ivanova
+  - Miroslav Mašláň
+  - Michal Kořenek
+  abstract: The recoilless nuclear gamma resonance method, also known as Mössbauer spectroscopy, is a non-destructive method
+    of studying the solid state. This technique can be used to determine the phase composition, local atomic environments,
+    magnetic properties, and the nature of chemical bonds. The experiment requires an iron-containing material to observe
+    the effect of resonant absorption of gamma quanta. One advantage of Mössbauer spectroscopy is that it enables the study
+    of materials both in thin surface layers and in bulk. Mössbauer spectroscopy makes it possible to register different decay
+    products of an excited nucleus. Conversion electron Mössbauer spectroscopy (CEMS) provides information on the structure
+    of materials at a depth of 0.3 𝜇m. On the contrary, Conversion X-ray Mössbauer spectroscopy (CXMS) has a probing depth
+    of around 10 𝜇m. This study examined the impact of high-temperature treatment on the formation of oxide layers in steels
+    and iron-based alloys used in additive manufacturing. The samples studied were produced by selective laser melting (SLM)
+    of austenitic 316L stainless steel and 1.2709 maraging steel powder. Following 3D printing, the surface of the material
+    was subjected to mechanical polishing and sandblasting, after which it was thermally annealed in air at a temperature
+    ranging from 500 to 1000 °C. The surface of samples was studied using scanning electron microscopy (SEM), energy dispersion
+    analysis (EDS), X-ray diffraction (XRD) and grazing incidence X-ray diffraction (GIXRD), in conjunction with the Mössbauer
+    spectroscopy method. Following exposure to temperature, an austenitic iron phase (𝛾-Fe) is present throughout the bulk
+    of 316L stainless steel. The CXMS singlet corresponding to the 𝛾-phase exhibits slight quadrupole splitting indicating
+    the presence of alloying element atoms in the FCC lattice. The CEMS method revealed phase transformations 𝛾→𝛼 in a thin
+    surface layer measuring around 0.2-0.3 𝜇m. The presence of an oxide phase containing iron was also indicated by the detection
+    of a Fe3+ doublet. An increase in the annealing temperature and exposure time of the samples in the laboratory furnace
+    resulted in an increase in oxide scale, which exhibited an inhomogeneous structure. A combination of MS and other methods
+    (XRD, EDS) revealed that the surface of 316L stainless steel is covered with trigonal mixed oxides (Fe-Cr)₂O₃ and Mn-rich
+    oxides Mn₂(Fe-Cr)O₄ after temperature impact. For 1.2709 maraging steel, the method of surface treatment affects the oxidation
+    process. Using the CEMS and GIXRD methods, it was found that surface treatment involving mechanical polishing and heating
+    leads to the formation of 𝛼-Fe2O3, whereas 𝛾-Fe2O3 forms on surfaces treated with sandblasting. GIXRD also revealed that
+    the surface of the 1.2709 maraging steel was inhomogeneous at different incident angles. CEMS showed that at a depth of
+    approximately 0.2 𝜇m the sandblasted and heated (at 500 °C for 2 hours) surface contains of the 𝛾-Fe2O3 of and 𝛼-Fe2O3.
+    According to CEMS, the polished and heated (at 500 °C for 2 hours) surface contains of retained austenite and 𝛼-Fe2O3.
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Development of a Low-cost Extrusion Multi-nozzle 3D Bioprinter for Complex Constructs
+  date: 2026-10
+  url: https://doi.org/10.64898/2026.10.14.756591
+  category: printers
+  subcategory: fdm-process
+  authors:
+  - Kinam Hyun
+  - Annika Müller
+  - Nima Tabatabaei Rezaei
+  abstract: Abstract Extrusion-based multi-material bioprinting is a promising approach for fabricating complex tissue constructs,
+    but current systems often require expensive hardware or support only one or a few numbers of bioinks. In this study, a
+    low-cost, compact, and versatile multi-nozzle bioprinter (MNB) system was developed for pneumatic extrusion of up to 10
+    different inks using a rotational head. The system was integrated with a commercial 3D printer platform and controlled
+    using custom G-code commands. Backlash compensation and nozzle-specific calibrations were experimentally determined to
+    minimize positioning errors and airflow misalignment. The developed system showed stable repeatability in both clockwise
+    and counterclockwise movements. Lines and various structures were successfully printed with different nozzle-switching
+    directions and printing sequences. Representative structures including a diamond pattern, a multilayer scaffold, a pyramid
+    structure, and a kidney-like construct were successfully fabricated. These results demonstrate that the proposed MNB system
+    can produce complex 2D and 3D multi-material structures with good positional accuracy and repeatability.
+  venue: bioRxiv (Cold Spring Harbor Laboratory)
+- title: Mechanoscribed Xolography for Multiscale Mechanical Patterning of Cell-laden Hydrogels
+  date: 2026-10
+  url: https://doi.org/10.64898/2026.10.18.759929
+  category: print-farm
+  subcategory: polymer-materials
+  authors:
+  - Lena Elliger
+  - Tom van Hattem
+  - Mariana Azevedo Gonzalez‐Oliva
+  abstract: Mechanotransduction is a key regulator of healthy and malignant tissue development. However, current mechanobiological
+    insights are largely derived from cells cultured on two-dimensional substrates or in homogeneous biomaterials, which insufficiently
+    capture the three-dimensional (3D) heterogeneity and dynamic nature of the native extracellular matrix. This gap persists
+    due to a lack of manufacturing processes and analysis modalities to control and monitor material properties and their
+    evolution in 3D. Here, Mechanoscribed Xolography is introduced as a light sheet volumetric bioprinting process to rapidly
+    fabricate 3D cell-laden hydrogels with spatially controlled mechanical heterogeneity across multiple length scales. Moreover,
+    synchronizing in-situ optical microscopy with printing enables autonomous detection and spatial location-driven printing
+    around cellular spheroids. The refinement and spatiotemporal evolution of material properties are assessed with Brillouin
+    microscopy, which verifies that the contrast of imprinted heterogeneity is preserved over three weeks. Remarkably, regional
+    differences in cell behavior are attained within a one-step, one-material construct with elasticity of approximately 0.3
+    kPa–0.8 kPa, or 0.7 kPa–2.9 kPa with a crosslinking-enhancing additive. This foundational work on high-precision, rapid
+    bioprinting surrounding cellular objects represents a unique tool to systematically advance experimentation of 3D mechanotransduction
+    and prospectively engineer cell-instructive biomaterials for regenerative medicine.
+  venue: bioRxiv (Cold Spring Harbor Laboratory)
+- title: Identifying Bingham parameters from the video of mini-slump flow or channel flow
+  date: 2026-10
+  url: https://doi.org/10.1617/s11527-026-03294-z
+  category: print-farm
+  subcategory: polymer-materials
+  authors:
+  - In Kuk Kang
+  - Tae Yong Shin
+  - Jae Hong Kim
+  abstract: Abstract The performance of modern concrete, such as self-compacting concrete and 3D printing concrete, depends
+    on precise control of its rheology in addition to the mix proportioning and quality production. It would have defects
+    such as segregation and early-age cracking when its rheological properties are not qualified for a placing and casting
+    process. A way for in-situ measurement possibly linking with the control requires vision technology, and this study proposes
+    an attention-based long short-term memory (LSTM) framework to estimate rheological properties with a video of flow in
+    two conventional flow tests, mini-slump and channel flow test. The proposed framework provides Bingham parameters showing
+    close agreement with the concrete flow, which can be achieved by training the model with volume-of-fluid simulation data.
+    Analysis of the attention weights furthermore reveals the initial flow dominantly determines plastic viscosity, while
+    the flow stage to get stopped is related with yield stress as expected. The proposed framework was applied to different
+    temporal segments of the flow video. The initial flow alone provides sufficient information to estimate both Bingham parameters,
+    eliminating the need to observe the entire flow process. This finding highlights its potential for real-time monitoring
+    during concrete casting.
+  venue: Materials and Structures
+- title: 'UHPC with chemically surface-modified carbon fibers: Fresh-state behavior, printability, and mechanical properties
+    in 3D-printed and cast forms'
+  date: 2026-10
+  url: https://doi.org/10.1016/j.istruc.2026.113336
+  category: materials
+  subcategory: composites
+  authors:
+  - Saeed Davar
+  - Zhongguo John
+  - David P. Harper
+  abstract: ''
+  venue: Structures
+- title: A Tunable Approach to Formulate Sacrificial Molds Using Vat Photopolymerization 3D Printing
+  date: 2026-10
+  url: https://doi.org/10.1021/acsapm.6c03135
+  category: materials
+  subcategory: sla-dlp
+  authors:
+  - Derek J. Bischoff
+  - Eric D. Wetzel
+  - Anthony Clay
+  abstract: Abstract Vat photopolymerization (VPP) 3D printing typically produces thermosetting polymer networks from (meth)acrylate
+    resins, leveraging their fast cure kinetics and commercial availability to achieve a high cross-linking density and adequate
+    mechanical properties. Herein, we demonstrate a tunable and systematic approach that employs commercially available components
+    to enable VPP printing of dissolvable or disintegrable structures, used as sacrificial tooling to cast materials that
+    cannot be directly 3D printed into complex geometries. The developed resin is capable of feature sizes as low as 40 μm,
+    and its printability and speed are similar to those of common commercial VPP resins. To achieve dissolution in a mildly
+    basic aqueous solution, hydrophilic and hydrophobic constituents are evaluated to understand their contribution to the
+    kinetics of network degradation and ultimately disintegration. It is shown that the inclusion of a nonreactive plasticizer
+    is necessary to achieve a printed preswollen network that is disintegrable; however, the hydrophilicity of the plasticizer
+    is not critical. The chemical identity of the reactive diluent, which chemically reacts with the main chain polymer to
+    modulate cross-linking density, requires significant hydrophilic character to allow for the diffusion of the base into
+    the network to participate in the hydrolysis of ester bonds comprising the cross-links of the network. To demonstrate
+    the utility of the process, a mold for interpenetrating tetrahedral lattices is 3D printed, followed by the casting of
+    15 vol % carbon fiber-loaded urethane elastomer into the mold. The same mold was used to cast Shore 20A silicone with
+    >500% elongation to failure to show the fabrication of highly elastomeric geometries with mechanical properties unattainable
+    with directly printed materials.
+  venue: ACS Applied Polymer Materials
+- title: 'Ribbed CFRP-Reinforced Ceilings Reinvented: Optimization of Nervi’s Principles Using Multimodal Digital Fabrication
+    Methods'
+  date: 2026-10
+  url: https://doi.org/10.1061/jccof2.cceng-5646
+  category: materials
+  subcategory: fdm-process
+  authors:
+  - Sven Engel
+  - Jan Hendricks
+  - M. Claßen
+  abstract: Abstract Floor slabs are among the most material-intensive structural elements in buildings and therefore offer
+    significant potential for reducing concrete consumption and associated CO 2 emissions. At the same time, the realization
+    of material-efficient slab geometries remains limited by labor-intensive construction methods and challenges related to
+    automation. To address these issues, this paper presents a modular ceiling system that combines historical principles
+    of material efficiency, as pioneered by Pier Luigi Nervi, with digital fabrication technologies. Individual ceiling modules
+    are fabricated using a multimodal production process that integrates extrusion-based three-dimensional concrete printing
+    (3DCP), robotic casting, and automated placement of carbon fiber-reinforced polymer (CFRP) reinforcement. By combining
+    prefabricated modules through dry-joint connections and post-tensioning, the system enables efficient on-site assembly
+    while achieving significant reductions in concrete consumption and allowing for potential reuse of components. This paper
+    discusses reinforcement integration challenges in the 3D printing process and the development of a digital production
+    workflow. A full-scale prototype demonstrates the feasibility of the approach, while ongoing research explores robotic
+    milling of early-age concrete to improve joint precision and advance automation.
+  venue: Journal of Composites for Construction
+- title: Design for circularity on green materials for energy saving applications
+  date: 2026-10
+  url: https://doi.org/10.1016/b978-0-443-26716-1.00008-0
+  category: materials
+  subcategory: fdm-process
+  authors:
+  - Nashat Nawafleh
+  - Faris Mohammed AL-Oqla
+  abstract: ''
+  venue: Elsevier eBooks
+- title: Emerging Advancements in Upcycling Rice Processing Byproducts
+  date: 2026-10
+  url: https://doi.org/10.3390/foods15213767
+  category: materials
+  subcategory: polymer-materials
+  authors:
+  - Sumanjot Kaur
+  - Jaspreet Kaur
+  - Ali Ubeyitogullari
+  abstract: Rice is one of the world’s most important staple crops, but its processing generates substantial quantities of
+    byproducts, including rice husk, bran, straw, and broken rice, which are often underutilized or disposed of through environmentally
+    unsustainable practices. Despite being treated as waste, these byproducts are rich sources of dietary fiber, proteins,
+    lipids, phenolic compounds, vitamins, minerals, and other bioactive constituents with significant potential for food and
+    industrial applications. This review aims to provide a comprehensive overview of established and emerging approaches for
+    the sustainable valorization of rice production and processing byproducts. Relevant published literature was reviewed
+    to identify current utilization pathways, emerging technologies, associated limitations, and future opportunities. Established
+    applications include livestock farming, biochar production, biofuel generation, brewing, and rice bran oil extraction.
+    In addition, recent advances in value-added food applications are discussed, including supercritical carbon dioxide (SC-CO2)-based
+    extraction and drying technologies, aerogel production, bioplastics, fermentation, and 3D printing. These emerging technologies
+    enable the recovery of high-value functional compounds, improve nutritional quality, and facilitate the development of
+    sustainable food ingredients, biodegradable packaging materials, and personalized food products. Overall, integrating
+    advanced processing technologies into rice byproduct valorization offers a promising pathway toward a circular bioeconomy
+    by reducing waste, enhancing resource efficiency, and creating high-value products for the food industry. Continued interdisciplinary
+    research and industrial collaboration will be essential to accelerate commercialization and maximize the sustainable utilization
+    of rice processing byproducts.
+  venue: Foods
+- title: 'From automation to human-centric value: The essence of Industry 5.0 for sustainable and resilient manufacturing'
+  date: 2026-10
+  url: https://doi.org/10.1016/b978-0-443-45831-6.00010-7
+  category: print-farm
+  subcategory: fdm-process
+  authors:
+  - Bouyahrouzi El Mahdi
+  - Mohamed Saad Bajjou
+  - Yassine Zarrouk
+  abstract: ''
+  venue: Elsevier eBooks
+- title: An efficient laser-CMT+P additive manufacturing process for large 316 L components
+  date: 2026-10
+  url: https://doi.org/10.1080/10426914.2026.2751055
+  category: print-farm
+  subcategory: toolpath
+  authors:
+  - Liming Liu
+  - Biao Yang
+  abstract: To reduce forming defects in additive manufacturing (such as sagging, seam bulges, and surface irregularities)
+    and to achieve additive manufacturing with low heat input, automation, high efficiency, and stability, this study innovatively
+    proposes a novel spatially flexible dual-pulse hybrid process that integrates low-heat-input, low-power pulsed lasers
+    with CMT+Pulse technology. The results show that laser-assisted thermal regulation coupled with pulsed molten pool stirring
+    improves molten pool stability and deposition continuity. Optimized shielding gas flow of 15 L/min and a 15% overlap ratio
+    suppressed lack-of-fusion defects and improved layer stacking quality. The deposited structure comprised dendritic-shaped
+    γ-austenite and δ-ferrite phases. The final product showed a UTS of 669 MPa, a maximum EL of 51%, and a maximum YS of
+    0.2% of 389 MPa. Its suitability for large-scale metal structures was demonstrated by the successful fabrication of a
+    massive circular 316 L component.
+  venue: Materials and Manufacturing Processes
+- title: Challenges and opportunities for future advancements in composite manufacturing
+  date: 2026-09
+  url: https://doi.org/10.1016/b978-0-443-34735-1.00016-1
+  category: print-farm
+  subcategory: composites
+  authors:
+  - Devendra Kumar Singh
+  - Rajesh Kumar Verma
+  - Jogendra Kumar
+  abstract: ''
+  venue: Elsevier eBooks
